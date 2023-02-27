@@ -12,7 +12,4 @@ use Illuminate\Support\Facades\Route;
 | be assigned to the "web" middleware group. Make something great!
 |
 */
-Route::get('/', [App\Http\Controllers\APIController::class, 'mostrarComarcasAPI']);
-Route::get('/comarcas', [App\Http\Controllers\APIController::class, 'guardarComarcasAPI']);
-
-Route::get('/municipios', [App\Http\Controllers\APIController::class, 'guardarMunicipiosAPI']);
+Route::get('/', [App\Http\Controllers\APIController::class,'index']);

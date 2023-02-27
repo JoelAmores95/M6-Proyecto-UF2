@@ -4,10 +4,18 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Http;
+use Illuminate\Support\Facades\Storage;
 
 
 class APIController extends Controller
 {
+
+    public function index()
+    {
+        $contenido = Storage::get('APICat.json');
+        $municipios = json_decode($contenido, true);
+        return view('main', compact('municipios'));
+    }
 
     function guardarComarcasAPI()
     {

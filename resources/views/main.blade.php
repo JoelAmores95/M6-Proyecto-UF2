@@ -11,12 +11,13 @@
     <body>
         <div class="container my-5">
             <div class="row row-cols-1 row-cols-md-3 g-4">
-                @foreach($comarcasGuardadas as $comarca)
+                @foreach($municipios as $municipio)
                 <div class="col">
                     <div class="card">
                     
                     <div class="card-body">
-                        <p class="card-text">{{$comarca}}</p>
+                        <p class="card-text">{{$municipio['Municipio']}}</p>
+                        <p class="card-text">{{$municipio['Comarca']}}</p>
                     </div>
                     </div>
                 </div>
