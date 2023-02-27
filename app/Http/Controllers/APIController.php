@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Facades\Storage;
+use App\Models\Municipio;
 
 
 class APIController extends Controller
@@ -12,59 +13,64 @@ class APIController extends Controller
 
     public function index()
     {
+        // $contenido = Storage::get('APICat.json');
+        // $municipios = json_decode($contenido, true);
+        return Municipio::all();
+    }
+
+    /** Mostrar municipios de provincia */
+    function mostrarPueblosProvinciaBarcelona()
+    {
+        $contenido = Storage::get('MunicipiosProvinciasAgrupado.json');
+        $municipios = json_decode($contenido, true);
+        return $municipios[0]['Municipios'];
+    }
+    function mostrarPueblosProvinciaGirona()
+    {
+        $contenido = Storage::get('MunicipiosProvinciasAgrupado.json');
+        $municipios = json_decode($contenido, true);
+        return $municipios[1]['Municipios'];
+    }
+    function mostrarPueblosProvinciaLleida()
+    {
+        $contenido = Storage::get('MunicipiosProvinciasAgrupado.json');
+        $municipios = json_decode($contenido, true);
+        return $municipios[2]['Municipios'];
+    }
+    function mostrarPueblosProvinciaTarragona()
+    {
+        $contenido = Storage::get('MunicipiosProvinciasAgrupado.json');
+        $municipios = json_decode($contenido, true);
+        return $municipios[3]['Municipios'];
+    }
+
+
+
+    function guardarMunicipiosEnBaseDatos()
+    {
         $contenido = Storage::get('APICat.json');
         $municipios = json_decode($contenido, true);
+
+        foreach ($municipios as $dato) {
+            $nuevoMunicipio = new Municipio; // instancia un nuevo modelo de Eloquent
+            $nuevoMunicipio->nombre = $dato['Municipio'];
+            $nuevoMunicipio->comarca = $dato['Comarca'];
+            $nuevoMunicipio->save();
+        }
         return view('main', compact('municipios'));
-    }
-
-    function guardarComarcasAPI()
-    {
-        $jsonApi = HTTP::get('https://api.idescat.cat/emex/v1/nodes.json?tipus=com&lang=es');
-        $jsonDecoded = json_decode($jsonApi);
-
-        // Guardo en array
-        foreach ($jsonDecoded->fitxes->v as $comarca) {
-            $comarcasGuardadas[] = $comarca;
-            // $comarcasGuardadas[] = $comarca->content;
-        }
-        // return view('main', compact('comarcasGuardadas'));
-        return $comarcasGuardadas;
-    }
-
-    function mostrarComarcasAPI()
-    {
-        $jsonApi = HTTP::get('https://api.idescat.cat/emex/v1/nodes.json?tipus=com&lang=es');
-        $jsonDecoded = json_decode($jsonApi);
-
-        // Guardo en array
-        foreach ($jsonDecoded->fitxes->v as $comarca) {
-            // $comarcasGuardadas[] = $comarca;
-            $comarcasGuardadas[] = $comarca->content;
-        }
-        return view('main', compact('comarcasGuardadas'));
     }
 
     function guardarMunicipiosAPI()
     {
         $jsonApi = HTTP::get('https://analisi.transparenciacatalunya.cat/resource/9aju-tpwc.json');
-        $jsonDecoded = json_decode($jsonApi);
+        $municipios = json_decode($jsonApi,true);
 
-        // Guardo en array
-        foreach ($jsonDecoded as $municipio) {
-            $municipiosGuardados[] = $municipio;
-            // $municipiosGuardados[] = $municipio->nom;
+        foreach ($municipios as $dato) {
+            $nuevoMunicipio = new Municipio; // instancia un nuevo modelo de Eloquent
+            $nuevoMunicipio->nombre = $dato['nom'];
+            $nuevoMunicipio->comarca = $dato['nom_comarca'];
+            $nuevoMunicipio->save();
         }
-        // return view('main', compact('municipiosGuardados'));
-        return $municipiosGuardados;
+        return view('main', compact('municipios'));
     }
-
-    // function descripcionImagenApi($municipio){
-    //     $respuestaApi = HTTP::get('https://en.wikipedia.org/w/api.php?action=query&formatversion=2&prop=pageimages%7Cpageterms&titles='.$municipio.'&pilimit=3&piprop=thumbnail&wbptterms=description&&format=json');
-    //     $jsonDecoded = json_decode($respuestaApi);
-
-    //     foreach ($jsonDecoded as $municipio){
-    //         $fotos = $municipio->query->pages->title;
-    //     }
-    //     return view('main', compact('fotos'));
-    // }
 }

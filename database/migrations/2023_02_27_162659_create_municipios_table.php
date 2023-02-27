@@ -20,7 +20,7 @@ return new class extends Migration
             $table->string('comarca');
             $table->string('provincia')->nullable();
             $table->text('descripcion')->nullable();
-            $table->string('imagen_principal')->nullable();
+            $table->string('foto')->nullable();
             $table->timestamps();
         });
     }

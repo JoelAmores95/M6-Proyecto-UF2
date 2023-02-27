@@ -13,3 +13,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 Route::get('/', [App\Http\Controllers\APIController::class,'index']);
+Route::get('/guardarEnBaseDatos', [App\Http\Controllers\APIController::class,'guardarMunicipiosAPI']);
+
+Route::get('/ProvinciaBarcelona', [\App\Http\Controllers\APIController::class, 'mostrarPueblosProvinciaBarcelona']);
+Route::get('/ProvinciaGirona', [\App\Http\Controllers\APIController::class, 'mostrarPueblosProvinciaGirona']);
+Route::get('/ProvinciaLleida', [\App\Http\Controllers\APIController::class, 'mostrarPueblosProvinciaLleida']);
+Route::get('/ProvinciaTarragona', [App\Http\Controllers\APIController::class,'mostrarPueblosProvinciaTarragona']);

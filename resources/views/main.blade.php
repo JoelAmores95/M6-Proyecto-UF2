@@ -16,8 +16,8 @@
                     <div class="card">
                     
                     <div class="card-body">
-                        <p class="card-text">{{$municipio['Municipio']}}</p>
-                        <p class="card-text">{{$municipio['Comarca']}}</p>
+                        <p class="card-text">{{$municipio['nom']}}</p>
+                        <p class="card-text">{{$municipio['nom_comarca']}}</p>
                     </div>
                     </div>
                 </div>
