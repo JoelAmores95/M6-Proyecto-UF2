@@ -13,14 +13,13 @@ return new class extends Migration
      */
     public function up()
     {
-
         Schema::create('municipios', function (Blueprint $table) {
             $table->id();
             $table->string('nombre');
             $table->string('comarca');
             $table->string('provincia');
-            $table->text('descripcion');
-            $table->string('foto')->nullable();
+            $table->string('descripcion');
+            $table->text('foto')->nullable();
             $table->timestamps();
         });
     }
