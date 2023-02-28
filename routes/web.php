@@ -12,8 +12,10 @@ use Illuminate\Support\Facades\Route;
 | be assigned to the "web" middleware group. Make something great!
 |
 */
-Route::get('/', [App\Http\Controllers\APIController::class,'index']);
-Route::get('/guardarEnBaseDatos', [App\Http\Controllers\APIController::class,'guardarMunicipiosAPI']);
+// Route::get('/', [App\Http\Controllers\APIController::class,'index']);
+Route::get('/', [App\Http\Controllers\APIController::class, 'mostrarMunicipios']);
+Route::get('/guardarEnBaseDatos', [App\Http\Controllers\APIController::class,'guardarMunicipiosJSONenBD']);
+
 
 Route::get('/ProvinciaBarcelona', [\App\Http\Controllers\APIController::class, 'mostrarPueblosProvinciaBarcelona']);
 Route::get('/ProvinciaGirona', [\App\Http\Controllers\APIController::class, 'mostrarPueblosProvinciaGirona']);

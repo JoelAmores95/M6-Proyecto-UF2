@@ -8,6 +8,14 @@ use Illuminate\Database\Eloquent\Model;
 class Municipio extends Model
 {
     use HasFactory;
-    protected $fillable = ['nombre', 'comarca', 'provincia', 'descripcion', 'foto'];
-}
 
+    // Datos del Objeto Municipio
+    
+    protected $fillable = [
+        'nombre', 
+        'comarca', 
+        'provincia', 
+        'descripcion', 
+        'foto'
+    ];
+}

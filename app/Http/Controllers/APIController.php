@@ -2,7 +2,6 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Facades\Storage;
 use App\Models\Municipio;
@@ -11,66 +10,60 @@ use App\Models\Municipio;
 class APIController extends Controller
 {
 
-    public function index()
+    function guardarMunicipiosJSONenBD()
     {
-        // $contenido = Storage::get('APICat.json');
-        // $municipios = json_decode($contenido, true);
-        return Municipio::all();
-    }
+        // Leer JSON
+        $rutaArchivoJSON = base_path('API/APICat.json');
+        $contenido = file_get_contents($rutaArchivoJSON);
+        $municipiosJSON = json_decode($contenido, true);
 
-    /** Mostrar municipios de provincia */
-    function mostrarPueblosProvinciaBarcelona()
-    {
-        $contenido = Storage::get('MunicipiosProvinciasAgrupado.json');
-        $municipios = json_decode($contenido, true);
-        return $municipios[0]['Municipios'];
-    }
-    function mostrarPueblosProvinciaGirona()
-    {
-        $contenido = Storage::get('MunicipiosProvinciasAgrupado.json');
-        $municipios = json_decode($contenido, true);
-        return $municipios[1]['Municipios'];
-    }
-    function mostrarPueblosProvinciaLleida()
-    {
-        $contenido = Storage::get('MunicipiosProvinciasAgrupado.json');
-        $municipios = json_decode($contenido, true);
-        return $municipios[2]['Municipios'];
-    }
-    function mostrarPueblosProvinciaTarragona()
-    {
-        $contenido = Storage::get('MunicipiosProvinciasAgrupado.json');
-        $municipios = json_decode($contenido, true);
-        return $municipios[3]['Municipios'];
-    }
-
-
-
-    function guardarMunicipiosEnBaseDatos()
-    {
-        $contenido = Storage::get('APICat.json');
-        $municipios = json_decode($contenido, true);
-
-        foreach ($municipios as $dato) {
-            $nuevoMunicipio = new Municipio; // instancia un nuevo modelo de Eloquent
-            $nuevoMunicipio->nombre = $dato['Municipio'];
-            $nuevoMunicipio->comarca = $dato['Comarca'];
-            $nuevoMunicipio->save();
+        // Recorrer cada municipio y guardar su información en la base de datos.
+        foreach ($municipiosJSON as $municipioJSON) {
+            $municipioBD = new Municipio;
+            $municipioBD->nombre = $municipioJSON['Municipio'];
+            $municipioBD->comarca = $municipioJSON['Comarca'];
+            $municipioBD->provincia = $municipioJSON['Provincia'];
+            $municipioBD->descripcion = "Municipio de la comarca " . $municipioJSON['Comarca'] . " de la provincia " . $municipioJSON['Provincia'];
+            $municipioBD->save();
         }
-        return view('main', compact('municipios'));
+
+        return 'Los municipios del JSON se han guardado correctamente en la base de datos.';
     }
 
-    function guardarMunicipiosAPI()
+    function mostrarMunicipios()
     {
-        $jsonApi = HTTP::get('https://analisi.transparenciacatalunya.cat/resource/9aju-tpwc.json');
-        $municipios = json_decode($jsonApi,true);
-
-        foreach ($municipios as $dato) {
-            $nuevoMunicipio = new Municipio; // instancia un nuevo modelo de Eloquent
-            $nuevoMunicipio->nombre = $dato['nom'];
-            $nuevoMunicipio->comarca = $dato['nom_comarca'];
-            $nuevoMunicipio->save();
-        }
-        return view('main', compact('municipios'));
+        $municipios = Municipio::paginate(12);
+        return view("municipios", compact("municipios"));
     }
+
+    // public function index()
+    // {
+    //     return Municipio::all();
+    // }
+
+    // /** Mostrar municipios de provincia */
+    // function mostrarPueblosProvinciaBarcelona()
+    // {
+    //     $contenido = Storage::get('MunicipiosProvinciasAgrupado.json');
+    //     $municipios = json_decode($contenido, true);
+    //     return $municipios[0]['Municipios'];
+    // }
+    // function mostrarPueblosProvinciaGirona()
+    // {
+    //     $contenido = Storage::get('MunicipiosProvinciasAgrupado.json');
+    //     $municipios = json_decode($contenido, true);
+    //     return $municipios[1]['Municipios'];
+    // }
+    // function mostrarPueblosProvinciaLleida()
+    // {
+    //     $contenido = Storage::get('MunicipiosProvinciasAgrupado.json');
+    //     $municipios = json_decode($contenido, true);
+    //     return $municipios[2]['Municipios'];
+    // }
+    // function mostrarPueblosProvinciaTarragona()
+    // {
+    //     $contenido = Storage::get('MunicipiosProvinciasAgrupado.json');
+    //     $municipios = json_decode($contenido, true);
+    //     return $municipios[3]['Municipios'];
+    // }
 }

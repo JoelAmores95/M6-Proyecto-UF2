@@ -18,8 +18,8 @@ return new class extends Migration
             $table->id();
             $table->string('nombre');
             $table->string('comarca');
-            $table->string('provincia')->nullable();
-            $table->text('descripcion')->nullable();
+            $table->string('provincia');
+            $table->text('descripcion');
             $table->string('foto')->nullable();
             $table->timestamps();
         });

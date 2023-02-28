@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "Municipio": "Aiguamúrcia",
     "Comarca": "Alt Camp",
@@ -1867,7 +1867,6 @@
     "Municipio": "Alfara de Carles",
     "Comarca": "Baix Ebre",
     "Codigo": "430081",
-
     "Provincia": "Tarragona",
     "Descripción": "63,9",
     "Foto": "359"
@@ -1916,7 +1915,6 @@
     "Municipio": "Paüls",
     "Comarca": "Baix Ebre",
     "Codigo": "431021",
-
     "Provincia": "Tarragona",
     "Descripción": "43,8",
     "Foto": "566"
@@ -1925,7 +1923,6 @@
     "Municipio": "Perelló, el",
     "Comarca": "Baix Ebre",
     "Codigo": "431042",
-
     "Provincia": "Tarragona",
     "Descripción": "100,7",
     "Foto": "2885"
@@ -1974,7 +1971,6 @@
     "Municipio": "Begur",
     "Comarca": "Baix Empordà",
     "Codigo": "170139",
-
     "Provincia": "Girona",
     "Descripción": "20,7",
     "Foto": "4177"
@@ -2471,7 +2467,6 @@
     "Municipio": "Torrelles de Llobregat",
     "Comarca": "Baix Llobregat",
     "Codigo": "082896",
-
     "Provincia": "Barcelona",
     "Descripción": "13,6",
     "Foto": "6186"
@@ -2480,7 +2475,6 @@
     "Municipio": "Vallirana",
     "Comarca": "Baix Llobregat",
     "Codigo": "082956",
-
     "Provincia": "Barcelona",
     "Descripción": "23,9",
     "Foto": "15658"
@@ -3633,7 +3627,6 @@
     "Municipio": "Bescanó",
     "Comarca": "Gironès",
     "Codigo": "170209",
-
     "Provincia": "Girona",
     "Descripción": "35,9",
     "Foto": "5156"
@@ -3650,7 +3643,6 @@
     "Municipio": "Campllong",
     "Comarca": "Gironès",
     "Codigo": "170388",
-
     "Provincia": "Girona",
     "Descripción": "8,6",
     "Foto": "535"
@@ -3659,7 +3651,6 @@
     "Municipio": "Canet d'Adri",
     "Comarca": "Gironès",
     "Codigo": "170405",
-
     "Provincia": "Girona",
     "Descripción": "44,4",
     "Foto": "750"
@@ -3796,7 +3787,6 @@
     "Municipio": "Sant Julià de Ramis",
     "Comarca": "Gironès",
     "Codigo": "171693",
-
     "Provincia": "Girona",
     "Descripción": "18,8",
     "Foto": "3623"
@@ -4013,7 +4003,6 @@
     "Municipio": "Sant Iscle de Vallalta",
     "Comarca": "Maresme",
     "Codigo": "081939",
-
     "Provincia": "Barcelona",
     "Descripción": "17,8",
     "Foto": "1433"
@@ -4054,7 +4043,6 @@
     "Municipio": "Tiana",
     "Comarca": "Maresme",
     "Codigo": "082824",
-
     "Provincia": "Barcelona",
     "Descripción": "8",
     "Foto": "9110"
@@ -4183,7 +4171,6 @@
     "Municipio": "Freginals",
     "Comarca": "Montsià",
     "Codigo": "430629",
-
     "Provincia": "Tarragona",
     "Descripción": "17,6",
     "Foto": "388"
@@ -4208,7 +4195,6 @@
     "Municipio": "Mas de Barberans",
     "Comarca": "Montsià",
     "Codigo": "430770",
-
     "Provincia": "Tarragona",
     "Descripción": "78,8",
     "Foto": "556"
@@ -5601,7 +5587,6 @@
     "Municipio": "Palma d'Ebre, la",
     "Comarca": "Ribera d'Ebre",
     "Codigo": "430995",
-
     "Provincia": "Tarragona",
     "Descripción": "37,9",
     "Foto": "341"
@@ -5610,7 +5595,6 @@
     "Municipio": "Rasquera",
     "Comarca": "Ribera d'Ebre",
     "Codigo": "431212",
-
     "Provincia": "Tarragona",
     "Descripción": "51,3",
     "Foto": "822"
@@ -5627,7 +5611,6 @@
     "Municipio": "Tivissa",
     "Comarca": "Ribera d'Ebre",
     "Codigo": "431508",
-
     "Provincia": "Tarragona",
     "Descripción": "209,4",
     "Foto": "1643"
@@ -5636,7 +5619,6 @@
     "Municipio": "Torre de l'Espanyol, la",
     "Comarca": "Ribera d'Ebre",
     "Codigo": "431520",
-
     "Provincia": "Tarragona",
     "Descripción": "27,9",
     "Foto": "598"
@@ -6645,7 +6627,6 @@
     "Municipio": "Morell, el",
     "Comarca": "Tarragonès",
     "Codigo": "430957",
-
     "Provincia": "Tarragona",
     "Descripción": "5,9",
     "Foto": "3803"
@@ -6662,7 +6643,6 @@
     "Municipio": "Pallaresos, els",
     "Comarca": "Tarragonès",
     "Codigo": "431009",
-
     "Provincia": "Tarragona",
     "Descripción": "5,1",
     "Foto": "4930"
@@ -6671,7 +6651,6 @@
     "Municipio": "Perafort",
     "Comarca": "Tarragonès",
     "Codigo": "431037",
-
     "Provincia": "Tarragona",
     "Descripción": "9,5",
     "Foto": "1292"
@@ -6696,7 +6675,6 @@
     "Municipio": "Renau",
     "Comarca": "Tarragonès",
     "Codigo": "431227",
-
     "Provincia": "Tarragona",
     "Descripción": "8,2",
     "Foto": "152"
@@ -6721,7 +6699,6 @@
     "Municipio": "Salomó",
     "Comarca": "Tarragonès",
     "Codigo": "431359",
-
     "Provincia": "Tarragona",
     "Descripción": "12,2",
     "Foto": "543"
@@ -6738,7 +6715,6 @@
     "Municipio": "Secuita, la",
     "Comarca": "Tarragonès",
     "Codigo": "431444",
-
     "Provincia": "Tarragona",
     "Descripción": "17,8",
     "Foto": "1765"
@@ -6763,7 +6739,6 @@
     "Municipio": "Vespella de Gaià",
     "Comarca": "Tarragonès",
     "Codigo": "431649",
-
     "Provincia": "Tarragona",
     "Descripción": "18",
     "Foto": "496"
@@ -6772,7 +6747,6 @@
     "Municipio": "Vilallonga del Camp",
     "Comarca": "Tarragonès",
     "Codigo": "431665",
-
     "Provincia": "Tarragona",
     "Descripción": "9",
     "Foto": "2398"
