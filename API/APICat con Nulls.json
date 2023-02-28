@@ -1,0 +1,7586 @@
+﻿[
+    {
+        "Municipio": "Aiguamúrcia",
+        "Comarca": "Alt Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430017",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Alcover",
+        "Comarca": "Alt Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430056",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Alió",
+        "Comarca": "Alt Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430108",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bràfim",
+        "Comarca": "Alt Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430347",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cabra del Camp",
+        "Comarca": "Alt Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430363",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Figuerola del Camp",
+        "Comarca": "Alt Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430593",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Garidells, els",
+        "Comarca": "Alt Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430666",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Masó, la",
+        "Comarca": "Alt Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430803",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Milà, el",
+        "Comarca": "Alt Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430831",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Montferri",
+        "Comarca": "Alt Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430897",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Mont-ral",
+        "Comarca": "Alt Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430918",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Nulles",
+        "Comarca": "Alt Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430982",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pla de Santa Maria, el",
+        "Comarca": "Alt Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "431080",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pont d'Armentera, el",
+        "Comarca": "Alt Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "431135",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Puigpelat",
+        "Comarca": "Alt Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "431191",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Querol",
+        "Comarca": "Alt Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "431205",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Riba, la",
+        "Comarca": "Alt Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "431248",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Rodonyà",
+        "Comarca": "Alt Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "431325",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Rourell, el",
+        "Comarca": "Alt Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "431346",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vallmoll",
+        "Comarca": "Alt Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "431606",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Valls",
+        "Comarca": "Alt Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "431613",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilabella",
+        "Comarca": "Alt Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "431652",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vila-rodona",
+        "Comarca": "Alt Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "431704",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Agullana",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170010",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Albanyà",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170031",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Armentera, l'",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170118",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Avinyonet de Puigventós",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170123",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bàscara",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170160",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Biure",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "172348",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Boadella i les Escaules",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170293",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Borrassà",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170268",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cabanelles",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170314",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cabanes",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170307",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cadaqués",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170329",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cantallops",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170412",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Capmany",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170427",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castelló d'Empúries",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170470",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cistella",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170519",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Colera",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170545",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Darnius",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170600",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Escala, l'",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170622",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Espolla",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170643",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Far d'Empordà, el",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170059",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Figueres",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170669",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Fortià",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170741",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Garrigàs",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170754",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Garriguella",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170773",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Jonquera, la",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170865",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Lladó",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170887",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Llançà",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170926",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Llers",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170932",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Maçanet de Cabrenys",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171024",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Masarac",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171002",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Mollet de Peralada",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171061",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Navata",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171117",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ordis",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171156",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Palau de Santa Eulàlia",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171194",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Palau-saverdera",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171208",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pau",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171289",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pedret i Marzà",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171292",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Peralada",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171328",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pont de Molins",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171352",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pontós",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171365",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Port de la Selva, el",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171404",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Portbou",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171387",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Rabós",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171432",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Riumors",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171518",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Roses",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171523",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Climent Sescebes",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171582",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Llorenç de la Muga",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171714",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Miquel de Fluvià",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171753",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Mori",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171766",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Pere Pescador",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171788",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Santa Llogaia d'Àlguema",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171827",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Saus, Camallera i Llampaies",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171870",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Selva de Mar, la",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171886",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Siurana",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170524",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Terrades",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171962",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Torroella de Fluvià",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171984",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vajol, la",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170144",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ventalló",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "172109",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilabertran",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "172142",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Viladamat",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "172174",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilafant",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "172214",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilajuïga",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "172235",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilamacolum",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "172253",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilamalla",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "172266",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilamaniscle",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "172272",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilanant",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "172288",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vila-sacra",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "172305",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilaür",
+        "Comarca": "Alt Empordà",
+        "Provincia": "Girona",
+        "Codigo": "172229",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Avinyonet del Penedès",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "080137",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cabanyes, les",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "080272",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castellet i la Gornal",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "080581",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castellví de la Marca",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "080654",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Font-rubí",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "080850",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Gelida",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "080919",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Granada, la",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "080945",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Mediona",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "081228",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Olèrdola",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "081458",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Olesa de Bonesvalls",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "081461",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pacs del Penedès",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "081542",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pla del Penedès, el",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "081640",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pontons",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "081688",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Puigdàlber",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "081748",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Cugat Sesgarrigues",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "082068",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Llorenç d'Hortons",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "082227",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Martí Sarroca",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "082270",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Pere de Riudebitlles",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "082325",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Quintí de Mediona",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "082362",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Sadurní d'Anoia",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "082401",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Santa Fe del Penedès",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "082495",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Santa Margarida i els Monjos",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "082515",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Subirats",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "082732",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Torrelavit",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "082877",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Torrelles de Foix",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "082883",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilafranca del Penedès",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "083054",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilobí del Penedès",
+        "Comarca": "Alt Penedès",
+        "Provincia": "Barcelona",
+        "Codigo": "083041",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Alàs i Cerc",
+        "Comarca": "Alt Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "250058",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Arsèguel",
+        "Comarca": "Alt Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "250328",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bassella",
+        "Comarca": "Alt Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "250447",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cabó",
+        "Comarca": "Alt Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "250616",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cava",
+        "Comarca": "Alt Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "250714",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Coll de Nargó",
+        "Comarca": "Alt Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "250772",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Estamariu",
+        "Comarca": "Alt Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "250886",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Fígols i Alinyà",
+        "Comarca": "Alt Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "259084",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Josa i Tuixén",
+        "Comarca": "Alt Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "259101",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Montferrer i Castellbò",
+        "Comarca": "Alt Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "251403",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Oliana",
+        "Comarca": "Alt Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "251497",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Organyà",
+        "Comarca": "Alt Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "251556",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Peramola",
+        "Comarca": "Alt Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "251654",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pont de Bar, el",
+        "Comarca": "Alt Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "250306",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ribera d'Urgellet",
+        "Comarca": "Alt Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "251850",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Seu d'Urgell, la",
+        "Comarca": "Alt Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "252038",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Valls d'Aguilar, les",
+        "Comarca": "Alt Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "259062",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Valls de Valira, les",
+        "Comarca": "Alt Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "252398",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vansa i Fórnols, la",
+        "Comarca": "Alt Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "259097",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pont de Suert, el",
+        "Comarca": "Alta Ribagorça",
+        "Provincia": "Lleida",
+        "Codigo": "251734",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vall de Boí, la",
+        "Comarca": "Alta Ribagorça",
+        "Provincia": "Lleida",
+        "Codigo": "250432",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilaller",
+        "Comarca": "Alta Ribagorça",
+        "Provincia": "Lleida",
+        "Codigo": "252458",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Argençola",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "080082",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bellprat",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "080214",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bruc, el",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "080253",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cabrera d'Anoia",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "080288",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Calaf",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "080312",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Calonge de Segarra",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "080364",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Capellades",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "080446",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Carme",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "080484",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castellfollit de Riubregós",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "080608",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castellolí",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "080636",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Copons",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "080713",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Hostalets de Pierola, els",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "081629",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Igualada",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "081022",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Jorba",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "081038",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Llacuna, la",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "081043",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Masquefa",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "081192",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Montmaneu",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "081332",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Òdena",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "081430",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Orpí",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "081521",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Piera",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "081614",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pobla de Claramunt, la",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "081653",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Prats de Rei, els",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "081705",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pujalt",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "081764",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Rubió",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "081859",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Martí de Tous",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "082264",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Martí Sesgueioles",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "082286",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Pere Sallavinera",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "081897",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Santa Margarida de Montbui",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "082508",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Santa Maria de Miralles",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "082573",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Torre de Claramunt, la",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "082861",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vallbona d'Anoia",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "082922",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Veciana",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "082975",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilanova del Camí",
+        "Comarca": "Anoia",
+        "Provincia": "Barcelona",
+        "Codigo": "083020",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Aguilar de Segarra",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "080023",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Artés",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "080109",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Avinyó",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "080121",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Balsareny",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "080180",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Callús",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "080386",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cardona",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "080478",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castellbell i el Vilar",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "080538",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castellfollit del Boix",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "080594",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castellgalí",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "080615",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castellnou de Bages",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "080620",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Fonollosa",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "080847",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Gaià",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "080902",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Manresa",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "081136",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Marganell",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "082423",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Monistrol de Montserrat",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "081271",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Mura",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "081398",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Navarcles",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "081402",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Navàs",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "081419",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pont de Vilomara i Rocafort, el",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "081825",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Rajadell",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "081786",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sallent",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "081918",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Feliu Sasserra",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "082129",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Fruitós de Bages",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "082135",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Joan de Vilatorrada",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "082188",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Mateu de Bages",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "082299",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Salvador de Guardiola",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "080983",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Vicenç de Castellet",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "082628",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Santpedor",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "081923",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Súria",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "082747",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Talamanca",
+        "Comarca": "Bages",
+        "Provincia": "Barcelona",
+        "Codigo": "082779",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Albiol, l'",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430038",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Aleixar, l'",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430075",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Alforja",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430094",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Almoster",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430115",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Arbolí",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430154",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Argentera, l'",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430173",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Borges del Camp, les",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430311",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Botarell",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430332",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cambrils",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430385",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Capafonts",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430398",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castellvell del Camp",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430424",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Colldejou",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430458",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Duesaigües",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430537",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Febró, la",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430574",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Maspujols",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430810",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Montbrió del Camp",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430884",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Mont-roig del Camp",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "430923",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Prades",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "431166",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pratdip",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "431188",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Reus",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "431233",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Riudecanyes",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "431270",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Riudecols",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "431286",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Riudoms",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "431299",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Selva del Camp, la",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "431457",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vandellòs i l'Hospitalet de l'Infant",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "431628",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilanova d'Escornalbou",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "431671",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilaplana",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "431690",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vinyols i els Arcs",
+        "Comarca": "Baix Camp",
+        "Provincia": "Tarragona",
+        "Codigo": "431785",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Aldea, l'",
+        "Comarca": "Baix Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "439044",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Aldover",
+        "Comarca": "Baix Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "430069",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Alfara de Carles",
+        "Comarca": "Baix Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "430081",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ametlla de Mar, l'",
+        "Comarca": "Baix Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "430136",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ampolla, l'",
+        "Comarca": "Baix Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "439060",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Benifallet",
+        "Comarca": "Baix Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "430252",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Camarles",
+        "Comarca": "Baix Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "439039",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Deltebre",
+        "Comarca": "Baix Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "439018",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Paüls",
+        "Comarca": "Baix Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "431021",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Perelló, el",
+        "Comarca": "Baix Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "431042",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Roquetes",
+        "Comarca": "Baix Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "431331",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Tivenys",
+        "Comarca": "Baix Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "431495",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Tortosa",
+        "Comarca": "Baix Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "431554",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Xerta",
+        "Comarca": "Baix Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "430521",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Albons",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170046",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Begur",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170139",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bellcaire d'Empordà",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170182",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bisbal d'Empordà, la",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170221",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Calonge i Sant Antoni",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170340",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castell-Platja d'Aro",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170486",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Colomers",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170558",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Corçà",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170577",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cruïlles, Monells i Sant Sadurní de l'Heura",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "179011",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Foixà",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170681",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Fontanilles",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170708",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Forallac",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "179026",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Garrigoles",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170767",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Gualta",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170813",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Jafre",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "170852",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Mont-ras",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171100",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Palafrugell",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171175",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Palamós",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171181",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Palau-sator",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171215",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pals",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171241",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Parlavà",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171267",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pera, la",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171306",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Regencós",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171447",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Rupià",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171539",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Feliu de Guíxols",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171609",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Santa Cristina d'Aro",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171812",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Serra de Daró",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171910",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Tallada d'Empordà, la",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171959",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Torrent",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171978",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Torroella de Montgrí",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "171997",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ullà",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "172044",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ullastret",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "172057",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ultramort",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "172039",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vall-llobrega",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "172095",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Verges",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "172116",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilopriu",
+        "Comarca": "Baix Empordà",
+        "Provincia": "Girona",
+        "Codigo": "172327",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Abrera",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "080018",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Begues",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "080207",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castelldefels",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "080569",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castellví de Rosanes",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "080667",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cervelló",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "080689",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Collbató",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "080692",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Corbera de Llobregat",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "080728",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cornellà de Llobregat",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "080734",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Esparreguera",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "080765",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Esplugues de Llobregat",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "080771",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Gavà",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "080898",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Martorell",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "081141",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Molins de Rei",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "081234",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Olesa de Montserrat",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "081477",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pallejà",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "081574",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Palma de Cervelló, la",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "089058",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Papiol, el",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "081580",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Prat de Llobregat, el",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "081691",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Andreu de la Barca",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "081960",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Boi de Llobregat",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "082009",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Climent de Llobregat",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "082042",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Esteve Sesrovires",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "082080",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Feliu de Llobregat",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "082114",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Joan Despí",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "082172",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Just Desvern",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "082212",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Vicenç dels Horts",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "082634",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Santa Coloma de Cervelló",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "082444",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Torrelles de Llobregat",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "082896",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vallirana",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "082956",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Viladecans",
+        "Comarca": "Baix Llobregat",
+        "Provincia": "Barcelona",
+        "Codigo": "083015",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Albinyana",
+        "Comarca": "Baix Penedès",
+        "Provincia": "Tarragona",
+        "Codigo": "430022",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Arboç, l'",
+        "Comarca": "Baix Penedès",
+        "Provincia": "Tarragona",
+        "Codigo": "430167",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Banyeres del Penedès",
+        "Comarca": "Baix Penedès",
+        "Provincia": "Tarragona",
+        "Codigo": "430206",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bellvei",
+        "Comarca": "Baix Penedès",
+        "Provincia": "Tarragona",
+        "Codigo": "430249",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bisbal del Penedès, la",
+        "Comarca": "Baix Penedès",
+        "Provincia": "Tarragona",
+        "Codigo": "430287",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bonastre",
+        "Comarca": "Baix Penedès",
+        "Provincia": "Tarragona",
+        "Codigo": "430304",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Calafell",
+        "Comarca": "Baix Penedès",
+        "Provincia": "Tarragona",
+        "Codigo": "430379",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cunit",
+        "Comarca": "Baix Penedès",
+        "Provincia": "Tarragona",
+        "Codigo": "430516",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Llorenç del Penedès",
+        "Comarca": "Baix Penedès",
+        "Provincia": "Tarragona",
+        "Codigo": "430748",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Masllorenç",
+        "Comarca": "Baix Penedès",
+        "Provincia": "Tarragona",
+        "Codigo": "430799",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Montmell, el",
+        "Comarca": "Baix Penedès",
+        "Provincia": "Tarragona",
+        "Codigo": "430901",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Jaume dels Domenys",
+        "Comarca": "Baix Penedès",
+        "Provincia": "Tarragona",
+        "Codigo": "431378",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Santa Oliva",
+        "Comarca": "Baix Penedès",
+        "Provincia": "Tarragona",
+        "Codigo": "431401",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vendrell, el",
+        "Comarca": "Baix Penedès",
+        "Provincia": "Tarragona",
+        "Codigo": "431634",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Badalona",
+        "Comarca": "Barcelonès",
+        "Provincia": "Barcelona",
+        "Codigo": "080155",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Barcelona",
+        "Comarca": "Barcelonès",
+        "Provincia": "Barcelona",
+        "Codigo": "080193",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Hospitalet de Llobregat, l'",
+        "Comarca": "Barcelonès",
+        "Provincia": "Barcelona",
+        "Codigo": "081017",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Adrià de Besòs",
+        "Comarca": "Barcelonès",
+        "Provincia": "Barcelona",
+        "Codigo": "081944",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Santa Coloma de Gramenet",
+        "Comarca": "Barcelonès",
+        "Provincia": "Barcelona",
+        "Codigo": "082457",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Avià",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "080116",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bagà",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "080168",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Berga",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "080229",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Borredà",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "080240",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Capolat",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "080459",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Casserres",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "080497",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castell de l'Areny",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "080575",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castellar de n'Hug",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "080522",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castellar del Riu",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "080500",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cercs",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "082687",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Espunyola, l'",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "080787",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Fígols",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "080804",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Gironella",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "080924",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Gisclareny",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "080930",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Gósol",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "251001",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Guardiola de Berguedà",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "080996",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Montclar",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "081304",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Montmajor",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "081326",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Nou de Berguedà, la",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "081424",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Olvan",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "081445",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pobla de Lillet, la",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "081666",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Puig-reig",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "081751",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Quar, la",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "081770",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sagàs",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "081884",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Saldes",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "081901",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Jaume de Frontanyà",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "082166",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Julià de Cerdanyola",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "089030",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Santa Maria de Merlès",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "082554",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vallcebre",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "082938",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilada",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "082994",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Viver i Serrateix",
+        "Comarca": "Berguedà",
+        "Provincia": "Barcelona",
+        "Codigo": "083089",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Alp",
+        "Comarca": "Cerdanya",
+        "Provincia": "Girona",
+        "Codigo": "170062",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bellver de Cerdanya",
+        "Comarca": "Cerdanya",
+        "Provincia": "Girona",
+        "Codigo": "250518",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bolvir",
+        "Comarca": "Cerdanya",
+        "Provincia": "Girona",
+        "Codigo": "170242",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Das",
+        "Comarca": "Cerdanya",
+        "Provincia": "Girona",
+        "Codigo": "170617",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Fontanals de Cerdanya",
+        "Comarca": "Cerdanya",
+        "Provincia": "Girona",
+        "Codigo": "170694",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ger",
+        "Comarca": "Cerdanya",
+        "Provincia": "Girona",
+        "Codigo": "170789",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Guils de Cerdanya",
+        "Comarca": "Cerdanya",
+        "Provincia": "Girona",
+        "Codigo": "170828",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Isòvol",
+        "Comarca": "Cerdanya",
+        "Provincia": "Girona",
+        "Codigo": "170849",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Lles de Cerdanya",
+        "Comarca": "Cerdanya",
+        "Provincia": "Girona",
+        "Codigo": "251272",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Llívia",
+        "Comarca": "Cerdanya",
+        "Provincia": "Girona",
+        "Codigo": "170947",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Meranges",
+        "Comarca": "Cerdanya",
+        "Provincia": "Girona",
+        "Codigo": "170998",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Montellà i Martinet",
+        "Comarca": "Cerdanya",
+        "Provincia": "Girona",
+        "Codigo": "251399",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Prats i Sansor",
+        "Comarca": "Cerdanya",
+        "Provincia": "Girona",
+        "Codigo": "251752",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Prullans",
+        "Comarca": "Cerdanya",
+        "Provincia": "Girona",
+        "Codigo": "251790",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Puigcerdà",
+        "Comarca": "Cerdanya",
+        "Provincia": "Girona",
+        "Codigo": "171411",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Riu de Cerdanya",
+        "Comarca": "Cerdanya",
+        "Provincia": "Girona",
+        "Codigo": "259139",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Urús",
+        "Comarca": "Cerdanya",
+        "Provincia": "Girona",
+        "Codigo": "172060",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Municipio",
+        "Comarca": "Comarca",
+        "Provincia": "Descripción",
+        "Codigo": "Código",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Barberà de la Conca",
+        "Comarca": "Conca de Barberà",
+        "Provincia": "Tarragona",
+        "Codigo": "430213",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Blancafort",
+        "Comarca": "Conca de Barberà",
+        "Provincia": "Tarragona",
+        "Codigo": "430290",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Conesa",
+        "Comarca": "Conca de Barberà",
+        "Provincia": "Tarragona",
+        "Codigo": "430461",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Espluga de Francolí, l'",
+        "Comarca": "Conca de Barberà",
+        "Provincia": "Tarragona",
+        "Codigo": "430542",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Forès",
+        "Comarca": "Conca de Barberà",
+        "Provincia": "Tarragona",
+        "Codigo": "430614",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Llorac",
+        "Comarca": "Conca de Barberà",
+        "Provincia": "Tarragona",
+        "Codigo": "430733",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Montblanc",
+        "Comarca": "Conca de Barberà",
+        "Provincia": "Tarragona",
+        "Codigo": "430862",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Passanant i Belltall",
+        "Comarca": "Conca de Barberà",
+        "Provincia": "Tarragona",
+        "Codigo": "431016",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Piles, les",
+        "Comarca": "Conca de Barberà",
+        "Provincia": "Tarragona",
+        "Codigo": "431055",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pira",
+        "Comarca": "Conca de Barberà",
+        "Provincia": "Tarragona",
+        "Codigo": "431074",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pontils",
+        "Comarca": "Conca de Barberà",
+        "Provincia": "Tarragona",
+        "Codigo": "431418",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Rocafort de Queralt",
+        "Comarca": "Conca de Barberà",
+        "Provincia": "Tarragona",
+        "Codigo": "431303",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Santa Coloma de Queralt",
+        "Comarca": "Conca de Barberà",
+        "Provincia": "Tarragona",
+        "Codigo": "431397",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sarral",
+        "Comarca": "Conca de Barberà",
+        "Provincia": "Tarragona",
+        "Codigo": "431423",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Savallà del Comtat",
+        "Comarca": "Conca de Barberà",
+        "Provincia": "Tarragona",
+        "Codigo": "431439",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Senan",
+        "Comarca": "Conca de Barberà",
+        "Provincia": "Tarragona",
+        "Codigo": "431460",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Solivella",
+        "Comarca": "Conca de Barberà",
+        "Provincia": "Tarragona",
+        "Codigo": "431476",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vallclara",
+        "Comarca": "Conca de Barberà",
+        "Provincia": "Tarragona",
+        "Codigo": "431589",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vallfogona de Riucorb",
+        "Comarca": "Conca de Barberà",
+        "Provincia": "Tarragona",
+        "Codigo": "431592",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilanova de Prades",
+        "Comarca": "Conca de Barberà",
+        "Provincia": "Tarragona",
+        "Codigo": "431687",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilaverd",
+        "Comarca": "Conca de Barberà",
+        "Provincia": "Tarragona",
+        "Codigo": "431726",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vimbodí i Poblet",
+        "Comarca": "Conca de Barberà",
+        "Provincia": "Tarragona",
+        "Codigo": "431763",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Canyelles",
+        "Comarca": "Garraf",
+        "Provincia": "Barcelona",
+        "Codigo": "080431",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cubelles",
+        "Comarca": "Garraf",
+        "Provincia": "Barcelona",
+        "Codigo": "080749",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Olivella",
+        "Comarca": "Garraf",
+        "Provincia": "Barcelona",
+        "Codigo": "081483",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Pere de Ribes",
+        "Comarca": "Garraf",
+        "Provincia": "Barcelona",
+        "Codigo": "082310",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sitges",
+        "Comarca": "Garraf",
+        "Provincia": "Barcelona",
+        "Codigo": "082704",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilanova i la Geltrú",
+        "Comarca": "Garraf",
+        "Provincia": "Barcelona",
+        "Codigo": "083073",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Albagés, l'",
+        "Comarca": "Garrigues",
+        "Provincia": "Lleida",
+        "Codigo": "250061",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Albi, l'",
+        "Comarca": "Garrigues",
+        "Provincia": "Lleida",
+        "Codigo": "250096",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Arbeca",
+        "Comarca": "Garrigues",
+        "Provincia": "Lleida",
+        "Codigo": "250292",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bellaguarda",
+        "Comarca": "Garrigues",
+        "Provincia": "Lleida",
+        "Codigo": "251706",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Borges Blanques, les",
+        "Comarca": "Garrigues",
+        "Provincia": "Lleida",
+        "Codigo": "250582",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bovera",
+        "Comarca": "Garrigues",
+        "Provincia": "Lleida",
+        "Codigo": "250560",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castelldans",
+        "Comarca": "Garrigues",
+        "Provincia": "Lleida",
+        "Codigo": "250674",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cervià de les Garrigues",
+        "Comarca": "Garrigues",
+        "Provincia": "Lleida",
+        "Codigo": "250735",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cogul, el",
+        "Comarca": "Garrigues",
+        "Provincia": "Lleida",
+        "Codigo": "250766",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Espluga Calba, l'",
+        "Comarca": "Garrigues",
+        "Provincia": "Lleida",
+        "Codigo": "250812",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Floresta, la",
+        "Comarca": "Garrigues",
+        "Provincia": "Lleida",
+        "Codigo": "250925",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Fulleda",
+        "Comarca": "Garrigues",
+        "Provincia": "Lleida",
+        "Codigo": "250978",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Granadella, la",
+        "Comarca": "Garrigues",
+        "Provincia": "Lleida",
+        "Codigo": "251018",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Granyena de les Garrigues",
+        "Comarca": "Garrigues",
+        "Provincia": "Lleida",
+        "Codigo": "251057",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Juncosa",
+        "Comarca": "Garrigues",
+        "Provincia": "Lleida",
+        "Codigo": "251180",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Juneda",
+        "Comarca": "Garrigues",
+        "Provincia": "Lleida",
+        "Codigo": "251193",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Omellons, els",
+        "Comarca": "Garrigues",
+        "Provincia": "Lleida",
+        "Codigo": "251538",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pobla de Cérvoles, la",
+        "Comarca": "Garrigues",
+        "Provincia": "Lleida",
+        "Codigo": "251692",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Puiggròs",
+        "Comarca": "Garrigues",
+        "Provincia": "Lleida",
+        "Codigo": "251804",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Soleràs, el",
+        "Comarca": "Garrigues",
+        "Provincia": "Lleida",
+        "Codigo": "252069",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Tarrés",
+        "Comarca": "Garrigues",
+        "Provincia": "Lleida",
+        "Codigo": "252189",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Torms, els",
+        "Comarca": "Garrigues",
+        "Provincia": "Lleida",
+        "Codigo": "252249",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilosell, el",
+        "Comarca": "Garrigues",
+        "Provincia": "Lleida",
+        "Codigo": "252537",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vinaixa",
+        "Comarca": "Garrigues",
+        "Provincia": "Lleida",
+        "Codigo": "252555",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Argelaguer",
+        "Comarca": "Garrotxa",
+        "Provincia": "Girona",
+        "Codigo": "170101",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Besalú",
+        "Comarca": "Garrotxa",
+        "Provincia": "Girona",
+        "Codigo": "170195",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Beuda",
+        "Comarca": "Garrotxa",
+        "Provincia": "Girona",
+        "Codigo": "170216",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castellfollit de la Roca",
+        "Comarca": "Garrotxa",
+        "Provincia": "Girona",
+        "Codigo": "170464",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Maià de Montcal",
+        "Comarca": "Garrotxa",
+        "Provincia": "Girona",
+        "Codigo": "170985",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Mieres",
+        "Comarca": "Garrotxa",
+        "Provincia": "Girona",
+        "Codigo": "171058",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Montagut i Oix",
+        "Comarca": "Garrotxa",
+        "Provincia": "Girona",
+        "Codigo": "171096",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Olot",
+        "Comarca": "Garrotxa",
+        "Provincia": "Girona",
+        "Codigo": "171143",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Planes d'Hostoles, les",
+        "Comarca": "Garrotxa",
+        "Provincia": "Girona",
+        "Codigo": "171334",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Preses, les",
+        "Comarca": "Garrotxa",
+        "Provincia": "Girona",
+        "Codigo": "171390",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Riudaura",
+        "Comarca": "Garrotxa",
+        "Provincia": "Girona",
+        "Codigo": "171498",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sales de Llierca",
+        "Comarca": "Garrotxa",
+        "Provincia": "Girona",
+        "Codigo": "171544",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Aniol de Finestres",
+        "Comarca": "Garrotxa",
+        "Provincia": "Girona",
+        "Codigo": "171833",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Feliu de Pallerols",
+        "Comarca": "Garrotxa",
+        "Provincia": "Girona",
+        "Codigo": "171616",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Ferriol",
+        "Comarca": "Garrotxa",
+        "Provincia": "Girona",
+        "Codigo": "171621",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Jaume de Llierca",
+        "Comarca": "Garrotxa",
+        "Provincia": "Girona",
+        "Codigo": "171655",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Joan les Fonts",
+        "Comarca": "Garrotxa",
+        "Provincia": "Girona",
+        "Codigo": "171851",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Santa Pau",
+        "Comarca": "Garrotxa",
+        "Provincia": "Girona",
+        "Codigo": "171848",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Tortellà",
+        "Comarca": "Garrotxa",
+        "Provincia": "Girona",
+        "Codigo": "172001",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vall d'en Bas, la",
+        "Comarca": "Garrotxa",
+        "Provincia": "Girona",
+        "Codigo": "172076",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vall de Bianya, la",
+        "Comarca": "Garrotxa",
+        "Provincia": "Girona",
+        "Codigo": "172082",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Aiguaviva",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "170025",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bescanó",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "170209",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bordils",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "170255",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Campllong",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "170388",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Canet d'Adri",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "170405",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cassà de la Selva",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "170448",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Celrà",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "170499",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cervià de Ter",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "170502",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Flaçà",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "170675",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Fornells de la Selva",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "170736",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Girona",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "170792",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Juià",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "170871",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Llagostera",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "170890",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Llambilles",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "170904",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Madremanya",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "170979",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Quart",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "171426",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Salt",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "171557",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Andreu Salou",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "171576",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Gregori",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "171637",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Joan de Mollet",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "171680",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Jordi Desvalls",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "171668",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Julià de Ramis",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "171693",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Martí de Llémena",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "171729",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Martí Vell",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "171735",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sarrià de Ter",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "171864",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilablareix",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "172155",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Viladasens",
+        "Comarca": "Gironès",
+        "Provincia": "Girona",
+        "Codigo": "172168",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Alella",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "080039",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Arenys de Mar",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "080060",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Arenys de Munt",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "080076",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Argentona",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "080095",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cabrera de Mar",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "080291",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cabrils",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "080305",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Caldes d'Estrac",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "080327",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Calella",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "080351",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Canet de Mar",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "080403",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Dosrius",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "080752",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Malgrat de Mar",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "081108",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Masnou, el",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "081189",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Mataró",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "081213",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Montgat",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "081265",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Òrrius",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "081537",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Palafolls",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "081555",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pineda de Mar",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "081635",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Premià de Dalt",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "082303",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Premià de Mar",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "081727",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Andreu de Llavaneres",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "081976",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Cebrià de Vallalta",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "082037",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Iscle de Vallalta",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "081939",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Pol de Mar",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "082359",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Vicenç de Montalt",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "082649",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Santa Susanna",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "082613",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Teià",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "082819",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Tiana",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "082824",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Tordera",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "082845",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilassar de Dalt",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "082140",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilassar de Mar",
+        "Comarca": "Maresme",
+        "Provincia": "Barcelona",
+        "Codigo": "082191",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Calders",
+        "Comarca": "Moianès",
+        "Provincia": "Barcelona",
+        "Codigo": "080348",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castellcir",
+        "Comarca": "Moianès",
+        "Provincia": "Barcelona",
+        "Codigo": "080556",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castellterçol",
+        "Comarca": "Moianès",
+        "Provincia": "Barcelona",
+        "Codigo": "080641",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Collsuspina",
+        "Comarca": "Moianès",
+        "Provincia": "Barcelona",
+        "Codigo": "080706",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Estany, l'",
+        "Comarca": "Moianès",
+        "Provincia": "Barcelona",
+        "Codigo": "080790",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Granera",
+        "Comarca": "Moianès",
+        "Provincia": "Barcelona",
+        "Codigo": "080958",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Moià",
+        "Comarca": "Moianès",
+        "Provincia": "Barcelona",
+        "Codigo": "081385",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Monistrol de Calders",
+        "Comarca": "Moianès",
+        "Provincia": "Barcelona",
+        "Codigo": "081287",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Quirze Safaja",
+        "Comarca": "Moianès",
+        "Provincia": "Barcelona",
+        "Codigo": "082397",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Santa Maria d'Oló",
+        "Comarca": "Moianès",
+        "Provincia": "Barcelona",
+        "Codigo": "082589",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Alcanar",
+        "Comarca": "Montsià",
+        "Provincia": "Tarragona",
+        "Codigo": "430043",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Amposta",
+        "Comarca": "Montsià",
+        "Provincia": "Tarragona",
+        "Codigo": "430141",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Freginals",
+        "Comarca": "Montsià",
+        "Provincia": "Tarragona",
+        "Codigo": "430629",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Galera, la",
+        "Comarca": "Montsià",
+        "Provincia": "Tarragona",
+        "Codigo": "430635",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Godall",
+        "Comarca": "Montsià",
+        "Provincia": "Tarragona",
+        "Codigo": "430688",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Mas de Barberans",
+        "Comarca": "Montsià",
+        "Provincia": "Tarragona",
+        "Codigo": "430770",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Masdenverge",
+        "Comarca": "Montsià",
+        "Provincia": "Tarragona",
+        "Codigo": "430786",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ràpita, la",
+        "Comarca": "Montsià",
+        "Provincia": "Tarragona",
+        "Codigo": "431362",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Jaume d'Enveja",
+        "Comarca": "Montsià",
+        "Provincia": "Tarragona",
+        "Codigo": "439023",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Santa Bàrbara",
+        "Comarca": "Montsià",
+        "Provincia": "Tarragona",
+        "Codigo": "431384",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sénia, la",
+        "Comarca": "Montsià",
+        "Provincia": "Tarragona",
+        "Codigo": "430445",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ulldecona",
+        "Comarca": "Montsià",
+        "Provincia": "Tarragona",
+        "Codigo": "431567",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Àger",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "250024",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Albesa",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "250083",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Algerri",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "250156",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Alòs de Balaguer",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "250220",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Artesa de Segre",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "250349",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Avellanes i Santa Linya, les",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "250371",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Balaguer",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "250404",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Baronia de Rialb, la",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "250426",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bellcaire d'Urgell",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "250479",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bellmunt d'Urgell",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "250498",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cabanabona",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "250609",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Camarasa",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "250621",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castelló de Farfanya",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "250693",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cubells",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "250791",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Foradada",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "250946",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ivars de Noguera",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "251121",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Menàrguens",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "251348",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Montgai",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "251386",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Oliola",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "251500",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Os de Balaguer",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "251569",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Penelles",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "251641",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ponts",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "251728",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Preixens",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "251771",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sentiu de Sió, la",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "250352",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Térmens",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "252206",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Tiurana",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "252228",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Torrelameu",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "252311",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vallfogona de Balaguer",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "252402",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilanova de l'Aguda",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "252496",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilanova de Meià",
+        "Comarca": "Noguera",
+        "Provincia": "Lleida",
+        "Codigo": "252509",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Alpens",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "080044",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Balenyà",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "080174",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Brull, el",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "080266",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Calldetenes",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "080370",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Centelles",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "080673",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Espinelves",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "170638",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Esquirol, l'",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "082541",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Folgueroles",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "080832",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Gurb",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "081000",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Lluçà",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "081094",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Malla",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "081115",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Manlleu",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "081120",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Masies de Roda, les",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "081167",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Masies de Voltregà, les",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "081173",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Montesquiu",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "081311",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Muntanyola",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "081290",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Olost",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "081496",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Orís",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "081509",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Oristà",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "081516",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Perafita",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "081607",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Prats de Lluçanès",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "081712",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Roda de Ter",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "081831",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Rupit i Pruit",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "089019",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Agustí de Lluçanès",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "081957",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Bartomeu del Grau",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "081995",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Boi de Lluçanès",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "082016",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Hipòlit de Voltregà",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "082153",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Julià de Vilatorta",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "082205",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Martí d'Albars",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "082251",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Martí de Centelles",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "082248",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Pere de Torelló",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "082331",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Quirze de Besora",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "082378",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Sadurní d'Osormort",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "082418",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Vicenç de Torelló",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "082652",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Santa Cecília de Voltregà",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "082439",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Santa Eugènia de Berga",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "082460",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Santa Eulàlia de Riuprimer",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "082476",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Santa Maria de Besora",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "082536",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Seva",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "082690",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sobremunt",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "082711",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sora",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "082726",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Taradell",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "082785",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Tavèrnoles",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "082750",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Tavertet",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "082802",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Tona",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "082830",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Torelló",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "082858",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vic",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "082981",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vidrà",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "172121",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Viladrau",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "172207",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilanova de Sau",
+        "Comarca": "Osona",
+        "Provincia": "Barcelona",
+        "Codigo": "083036",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Abella de la Conca",
+        "Comarca": "Pallars Jussà",
+        "Provincia": "Lleida",
+        "Codigo": "250019",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castell de Mur",
+        "Comarca": "Pallars Jussà",
+        "Provincia": "Lleida",
+        "Codigo": "259046",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Conca de Dalt",
+        "Comarca": "Pallars Jussà",
+        "Provincia": "Lleida",
+        "Codigo": "251615",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Gavet de la Conca",
+        "Comarca": "Pallars Jussà",
+        "Provincia": "Lleida",
+        "Codigo": "250984",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Isona i Conca Dellà",
+        "Comarca": "Pallars Jussà",
+        "Provincia": "Lleida",
+        "Codigo": "251155",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Llimiana",
+        "Comarca": "Pallars Jussà",
+        "Provincia": "Lleida",
+        "Codigo": "251288",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pobla de Segur, la",
+        "Comarca": "Pallars Jussà",
+        "Provincia": "Lleida",
+        "Codigo": "251713",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Salàs de Pallars",
+        "Comarca": "Pallars Jussà",
+        "Provincia": "Lleida",
+        "Codigo": "251902",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Esteve de la Sarga",
+        "Comarca": "Pallars Jussà",
+        "Provincia": "Lleida",
+        "Codigo": "251961",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sarroca de Bellera",
+        "Comarca": "Pallars Jussà",
+        "Provincia": "Lleida",
+        "Codigo": "252017",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Senterada",
+        "Comarca": "Pallars Jussà",
+        "Provincia": "Lleida",
+        "Codigo": "252022",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Talarn",
+        "Comarca": "Pallars Jussà",
+        "Provincia": "Lleida",
+        "Codigo": "252154",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Torre de Cabdella, la",
+        "Comarca": "Pallars Jussà",
+        "Provincia": "Lleida",
+        "Codigo": "252271",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Tremp",
+        "Comarca": "Pallars Jussà",
+        "Provincia": "Lleida",
+        "Codigo": "252347",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Alins",
+        "Comarca": "Pallars Sobirà",
+        "Provincia": "Lleida",
+        "Codigo": "250175",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Alt Àneu",
+        "Comarca": "Pallars Sobirà",
+        "Provincia": "Lleida",
+        "Codigo": "250241",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Baix Pallars",
+        "Comarca": "Pallars Sobirà",
+        "Provincia": "Lleida",
+        "Codigo": "250390",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Espot",
+        "Comarca": "Pallars Sobirà",
+        "Provincia": "Lleida",
+        "Codigo": "250827",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Esterri d'Àneu",
+        "Comarca": "Pallars Sobirà",
+        "Provincia": "Lleida",
+        "Codigo": "250864",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Esterri de Cardós",
+        "Comarca": "Pallars Sobirà",
+        "Provincia": "Lleida",
+        "Codigo": "250870",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Farrera",
+        "Comarca": "Pallars Sobirà",
+        "Provincia": "Lleida",
+        "Codigo": "250899",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Guingueta d'Àneu, la",
+        "Comarca": "Pallars Sobirà",
+        "Provincia": "Lleida",
+        "Codigo": "259031",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Lladorre",
+        "Comarca": "Pallars Sobirà",
+        "Provincia": "Lleida",
+        "Codigo": "251235",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Llavorsí",
+        "Comarca": "Pallars Sobirà",
+        "Provincia": "Lleida",
+        "Codigo": "251266",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Rialp",
+        "Comarca": "Pallars Sobirà",
+        "Provincia": "Lleida",
+        "Codigo": "251832",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Soriguera",
+        "Comarca": "Pallars Sobirà",
+        "Provincia": "Lleida",
+        "Codigo": "252081",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sort",
+        "Comarca": "Pallars Sobirà",
+        "Provincia": "Lleida",
+        "Codigo": "252094",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Tírvia",
+        "Comarca": "Pallars Sobirà",
+        "Provincia": "Lleida",
+        "Codigo": "252213",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vall de Cardós",
+        "Comarca": "Pallars Sobirà",
+        "Provincia": "Lleida",
+        "Codigo": "259010",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Barbens",
+        "Comarca": "Pla d'Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "250411",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bell-lloc d'Urgell",
+        "Comarca": "Pla d'Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "250485",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bellvís",
+        "Comarca": "Pla d'Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "250523",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castellnou de Seana",
+        "Comarca": "Pla d'Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "250680",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Fondarella",
+        "Comarca": "Pla d'Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "250931",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Golmés",
+        "Comarca": "Pla d'Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "250997",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ivars d'Urgell",
+        "Comarca": "Pla d'Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "251137",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Linyola",
+        "Comarca": "Pla d'Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "251229",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Miralcamp",
+        "Comarca": "Pla d'Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "251351",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Mollerussa",
+        "Comarca": "Pla d'Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "251370",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Palau d'Anglesola, el",
+        "Comarca": "Pla d'Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "251581",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Poal, el",
+        "Comarca": "Pla d'Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "251689",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sidamon",
+        "Comarca": "Pla d'Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "252056",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Torregrossa",
+        "Comarca": "Pla d'Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "252304",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilanova de Bellpuig",
+        "Comarca": "Pla d'Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "252483",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vila-sana",
+        "Comarca": "Pla d'Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "252521",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Banyoles",
+        "Comarca": "Pla de l'Estany",
+        "Provincia": "Girona",
+        "Codigo": "170157",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Camós",
+        "Comarca": "Pla de l'Estany",
+        "Provincia": "Girona",
+        "Codigo": "170353",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cornellà del Terri",
+        "Comarca": "Pla de l'Estany",
+        "Provincia": "Girona",
+        "Codigo": "170561",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Crespià",
+        "Comarca": "Pla de l'Estany",
+        "Provincia": "Girona",
+        "Codigo": "170583",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Esponellà",
+        "Comarca": "Pla de l'Estany",
+        "Provincia": "Girona",
+        "Codigo": "170656",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Fontcoberta",
+        "Comarca": "Pla de l'Estany",
+        "Provincia": "Girona",
+        "Codigo": "170715",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Palol de Revardit",
+        "Comarca": "Pla de l'Estany",
+        "Provincia": "Girona",
+        "Codigo": "171236",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Porqueres",
+        "Comarca": "Pla de l'Estany",
+        "Provincia": "Girona",
+        "Codigo": "171371",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Miquel de Campmajor",
+        "Comarca": "Pla de l'Estany",
+        "Provincia": "Girona",
+        "Codigo": "171740",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Serinyà",
+        "Comarca": "Pla de l'Estany",
+        "Provincia": "Girona",
+        "Codigo": "171903",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilademuls",
+        "Comarca": "Pla de l'Estany",
+        "Provincia": "Girona",
+        "Codigo": "172180",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bellmunt del Priorat",
+        "Comarca": "Priorat",
+        "Provincia": "Tarragona",
+        "Codigo": "430234",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bisbal de Falset, la",
+        "Comarca": "Priorat",
+        "Provincia": "Tarragona",
+        "Codigo": "430271",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cabacés",
+        "Comarca": "Priorat",
+        "Provincia": "Tarragona",
+        "Codigo": "430350",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Capçanes",
+        "Comarca": "Priorat",
+        "Provincia": "Tarragona",
+        "Codigo": "430402",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cornudella de Montsant",
+        "Comarca": "Priorat",
+        "Provincia": "Tarragona",
+        "Codigo": "430496",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Falset",
+        "Comarca": "Priorat",
+        "Provincia": "Tarragona",
+        "Codigo": "430555",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Figuera, la",
+        "Comarca": "Priorat",
+        "Provincia": "Tarragona",
+        "Codigo": "430580",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Gratallops",
+        "Comarca": "Priorat",
+        "Provincia": "Tarragona",
+        "Codigo": "430691",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Guiamets, els",
+        "Comarca": "Priorat",
+        "Provincia": "Tarragona",
+        "Codigo": "430705",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Lloar, el",
+        "Comarca": "Priorat",
+        "Provincia": "Tarragona",
+        "Codigo": "430727",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Marçà",
+        "Comarca": "Priorat",
+        "Provincia": "Tarragona",
+        "Codigo": "430764",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Margalef",
+        "Comarca": "Priorat",
+        "Provincia": "Tarragona",
+        "Codigo": "430751",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Masroig, el",
+        "Comarca": "Priorat",
+        "Provincia": "Tarragona",
+        "Codigo": "430825",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Molar, el",
+        "Comarca": "Priorat",
+        "Provincia": "Tarragona",
+        "Codigo": "430859",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Morera de Montsant, la",
+        "Comarca": "Priorat",
+        "Provincia": "Tarragona",
+        "Codigo": "430960",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Poboleda",
+        "Comarca": "Priorat",
+        "Provincia": "Tarragona",
+        "Codigo": "431129",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Porrera",
+        "Comarca": "Priorat",
+        "Provincia": "Tarragona",
+        "Codigo": "431140",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pradell de la Teixeta",
+        "Comarca": "Priorat",
+        "Provincia": "Tarragona",
+        "Codigo": "431153",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Torre de Fontaubella, la",
+        "Comarca": "Priorat",
+        "Provincia": "Tarragona",
+        "Codigo": "431515",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Torroja del Priorat",
+        "Comarca": "Priorat",
+        "Provincia": "Tarragona",
+        "Codigo": "431541",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ulldemolins",
+        "Comarca": "Priorat",
+        "Provincia": "Tarragona",
+        "Codigo": "431573",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilella Alta, la",
+        "Comarca": "Priorat",
+        "Provincia": "Tarragona",
+        "Codigo": "431732",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilella Baixa, la",
+        "Comarca": "Priorat",
+        "Provincia": "Tarragona",
+        "Codigo": "431747",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ascó",
+        "Comarca": "Ribera d'Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "430192",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Benissanet",
+        "Comarca": "Ribera d'Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "430265",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Flix",
+        "Comarca": "Ribera d'Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "430607",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Garcia",
+        "Comarca": "Ribera d'Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "430653",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ginestar",
+        "Comarca": "Ribera d'Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "430672",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Miravet",
+        "Comarca": "Ribera d'Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "430846",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Móra d'Ebre",
+        "Comarca": "Ribera d'Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "430939",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Móra la Nova",
+        "Comarca": "Ribera d'Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "430944",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Palma d'Ebre, la",
+        "Comarca": "Ribera d'Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "430995",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Rasquera",
+        "Comarca": "Ribera d'Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "431212",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Riba-roja d'Ebre",
+        "Comarca": "Ribera d'Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "431251",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Tivissa",
+        "Comarca": "Ribera d'Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "431508",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Torre de l'Espanyol, la",
+        "Comarca": "Ribera d'Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "431520",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vinebre",
+        "Comarca": "Ribera d'Ebre",
+        "Provincia": "Tarragona",
+        "Codigo": "431779",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Campdevànol",
+        "Comarca": "Ripollès",
+        "Provincia": "Girona",
+        "Codigo": "170366",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Campelles",
+        "Comarca": "Ripollès",
+        "Provincia": "Girona",
+        "Codigo": "170372",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Camprodon",
+        "Comarca": "Ripollès",
+        "Provincia": "Girona",
+        "Codigo": "170391",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Gombrèn",
+        "Comarca": "Ripollès",
+        "Provincia": "Girona",
+        "Codigo": "170806",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Llanars",
+        "Comarca": "Ripollès",
+        "Provincia": "Girona",
+        "Codigo": "170911",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Llosses, les",
+        "Comarca": "Ripollès",
+        "Provincia": "Girona",
+        "Codigo": "170963",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Molló",
+        "Comarca": "Ripollès",
+        "Provincia": "Girona",
+        "Codigo": "171077",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ogassa",
+        "Comarca": "Ripollès",
+        "Provincia": "Girona",
+        "Codigo": "171122",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pardines",
+        "Comarca": "Ripollès",
+        "Provincia": "Girona",
+        "Codigo": "171254",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Planoles",
+        "Comarca": "Ripollès",
+        "Provincia": "Girona",
+        "Codigo": "171349",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Queralbs",
+        "Comarca": "Ripollès",
+        "Provincia": "Girona",
+        "Codigo": "170433",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ribes de Freser",
+        "Comarca": "Ripollès",
+        "Provincia": "Girona",
+        "Codigo": "171450",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ripoll",
+        "Comarca": "Ripollès",
+        "Provincia": "Girona",
+        "Codigo": "171479",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Joan de les Abadesses",
+        "Comarca": "Ripollès",
+        "Provincia": "Girona",
+        "Codigo": "171674",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Pau de Segúries",
+        "Comarca": "Ripollès",
+        "Provincia": "Girona",
+        "Codigo": "171772",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Setcases",
+        "Comarca": "Ripollès",
+        "Provincia": "Girona",
+        "Codigo": "171925",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Toses",
+        "Comarca": "Ripollès",
+        "Provincia": "Girona",
+        "Codigo": "172018",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vallfogona de Ripollès",
+        "Comarca": "Ripollès",
+        "Provincia": "Girona",
+        "Codigo": "171707",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilallonga de Ter",
+        "Comarca": "Ripollès",
+        "Provincia": "Girona",
+        "Codigo": "172240",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Biosca",
+        "Comarca": "Segarra",
+        "Provincia": "Lleida",
+        "Codigo": "250557",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cervera",
+        "Comarca": "Segarra",
+        "Provincia": "Lleida",
+        "Codigo": "250729",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Estaràs",
+        "Comarca": "Segarra",
+        "Provincia": "Lleida",
+        "Codigo": "250851",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Granyanella",
+        "Comarca": "Segarra",
+        "Provincia": "Lleida",
+        "Codigo": "251039",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Granyena de Segarra",
+        "Comarca": "Segarra",
+        "Provincia": "Lleida",
+        "Codigo": "251044",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Guissona",
+        "Comarca": "Segarra",
+        "Provincia": "Lleida",
+        "Codigo": "251109",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ivorra",
+        "Comarca": "Segarra",
+        "Provincia": "Lleida",
+        "Codigo": "251142",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Massoteres",
+        "Comarca": "Segarra",
+        "Provincia": "Lleida",
+        "Codigo": "251327",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Montoliu de Segarra",
+        "Comarca": "Segarra",
+        "Provincia": "Lleida",
+        "Codigo": "251410",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Montornès de Segarra",
+        "Comarca": "Segarra",
+        "Provincia": "Lleida",
+        "Codigo": "251431",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Oluges, les",
+        "Comarca": "Segarra",
+        "Provincia": "Lleida",
+        "Codigo": "251522",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Plans de Sió, els",
+        "Comarca": "Segarra",
+        "Provincia": "Lleida",
+        "Codigo": "259118",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ribera d'Ondara",
+        "Comarca": "Segarra",
+        "Provincia": "Lleida",
+        "Codigo": "259059",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sanaüja",
+        "Comarca": "Segarra",
+        "Provincia": "Lleida",
+        "Codigo": "251919",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Guim de Freixenet",
+        "Comarca": "Segarra",
+        "Provincia": "Lleida",
+        "Codigo": "251924",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Guim de la Plana",
+        "Comarca": "Segarra",
+        "Provincia": "Lleida",
+        "Codigo": "251977",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Ramon",
+        "Comarca": "Segarra",
+        "Provincia": "Lleida",
+        "Codigo": "251945",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Talavera",
+        "Comarca": "Segarra",
+        "Provincia": "Lleida",
+        "Codigo": "252167",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Tarroja de Segarra",
+        "Comarca": "Segarra",
+        "Provincia": "Lleida",
+        "Codigo": "252192",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Torà",
+        "Comarca": "Segarra",
+        "Provincia": "Lleida",
+        "Codigo": "252234",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Torrefeta i Florejacs",
+        "Comarca": "Segarra",
+        "Provincia": "Lleida",
+        "Codigo": "259078",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Aitona",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "250387",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Alamús, els",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "250045",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Albatàrrec",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "250077",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Alcanó",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "250100",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Alcarràs",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "250117",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Alcoletge",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "250122",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Alfarràs",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "250138",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Alfés",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "250143",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Alguaire",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "250169",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Almacelles",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "250194",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Almatret",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "250208",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Almenar",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "250215",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Alpicat",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "250236",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Artesa de Lleida",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "250334",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Aspa",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "250365",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Benavent de Segrià",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "250539",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Corbins",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "250788",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Gimenells i el Pla de la Font",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "259123",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Granja d'Escarp, la",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "251023",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Llardecans",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "251253",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Lleida",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "251207",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Maials",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "251333",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Massalcoreig",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "251312",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Montoliu de Lleida",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "251425",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Portella, la",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "251749",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Puigverd de Lleida",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "251826",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Rosselló",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "251898",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sarroca de Lleida",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "252000",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Seròs",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "252043",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Soses",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "252108",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sudanell",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "252115",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sunyer",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "252120",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Torrebesses",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "252265",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Torrefarrera",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "252287",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Torres de Segre",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "252326",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Torre-serona",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "252332",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilanova de la Barca",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "252542",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilanova de Segrià",
+        "Comarca": "Segrià",
+        "Provincia": "Lleida",
+        "Codigo": "252516",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Amer",
+        "Comarca": "Selva",
+        "Provincia": "Girona",
+        "Codigo": "170078",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Anglès",
+        "Comarca": "Selva",
+        "Provincia": "Girona",
+        "Codigo": "170084",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Arbúcies",
+        "Comarca": "Selva",
+        "Provincia": "Girona",
+        "Codigo": "170097",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Blanes",
+        "Comarca": "Selva",
+        "Provincia": "Girona",
+        "Codigo": "170237",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Breda",
+        "Comarca": "Selva",
+        "Provincia": "Girona",
+        "Codigo": "170274",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Brunyola i Sant Martí Sapresa",
+        "Comarca": "Selva",
+        "Provincia": "Girona",
+        "Codigo": "170280",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Caldes de Malavella",
+        "Comarca": "Selva",
+        "Provincia": "Girona",
+        "Codigo": "170335",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cellera de Ter, la",
+        "Comarca": "Selva",
+        "Provincia": "Girona",
+        "Codigo": "171899",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Fogars de la Selva",
+        "Comarca": "Selva",
+        "Provincia": "Girona",
+        "Codigo": "080826",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Hostalric",
+        "Comarca": "Selva",
+        "Provincia": "Girona",
+        "Codigo": "170834",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Lloret de Mar",
+        "Comarca": "Selva",
+        "Provincia": "Girona",
+        "Codigo": "170950",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Maçanet de la Selva",
+        "Comarca": "Selva",
+        "Provincia": "Girona",
+        "Codigo": "171030",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Massanes",
+        "Comarca": "Selva",
+        "Provincia": "Girona",
+        "Codigo": "171019",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Osor",
+        "Comarca": "Selva",
+        "Provincia": "Girona",
+        "Codigo": "171169",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Riells i Viabrea",
+        "Comarca": "Selva",
+        "Provincia": "Girona",
+        "Codigo": "171463",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Riudarenes",
+        "Comarca": "Selva",
+        "Provincia": "Girona",
+        "Codigo": "171485",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Riudellots de la Selva",
+        "Comarca": "Selva",
+        "Provincia": "Girona",
+        "Codigo": "171501",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Feliu de Buixalleu",
+        "Comarca": "Selva",
+        "Provincia": "Girona",
+        "Codigo": "171595",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Hilari Sacalm",
+        "Comarca": "Selva",
+        "Provincia": "Girona",
+        "Codigo": "171642",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Julià del Llor i Bonmatí",
+        "Comarca": "Selva",
+        "Provincia": "Girona",
+        "Codigo": "179032",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Santa Coloma de Farners",
+        "Comarca": "Selva",
+        "Provincia": "Girona",
+        "Codigo": "171805",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sils",
+        "Comarca": "Selva",
+        "Provincia": "Girona",
+        "Codigo": "171931",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Susqueda",
+        "Comarca": "Selva",
+        "Provincia": "Girona",
+        "Codigo": "171946",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Tossa de Mar",
+        "Comarca": "Selva",
+        "Provincia": "Girona",
+        "Codigo": "172023",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vidreres",
+        "Comarca": "Selva",
+        "Provincia": "Girona",
+        "Codigo": "172137",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilobí d'Onyar",
+        "Comarca": "Selva",
+        "Provincia": "Girona",
+        "Codigo": "172333",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castellar de la Ribera",
+        "Comarca": "Solsonès",
+        "Provincia": "Lleida",
+        "Codigo": "250642",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Clariana de Cardener",
+        "Comarca": "Solsonès",
+        "Provincia": "Lleida",
+        "Codigo": "250753",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Coma i la Pedra, la",
+        "Comarca": "Solsonès",
+        "Provincia": "Lleida",
+        "Codigo": "251636",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Guixers",
+        "Comarca": "Solsonès",
+        "Provincia": "Lleida",
+        "Codigo": "251116",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Lladurs",
+        "Comarca": "Solsonès",
+        "Provincia": "Lleida",
+        "Codigo": "251240",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Llobera",
+        "Comarca": "Solsonès",
+        "Provincia": "Lleida",
+        "Codigo": "251291",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Molsosa, la",
+        "Comarca": "Solsonès",
+        "Provincia": "Lleida",
+        "Codigo": "251364",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Navès",
+        "Comarca": "Solsonès",
+        "Provincia": "Lleida",
+        "Codigo": "251462",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Odèn",
+        "Comarca": "Solsonès",
+        "Provincia": "Lleida",
+        "Codigo": "251484",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Olius",
+        "Comarca": "Solsonès",
+        "Provincia": "Lleida",
+        "Codigo": "251517",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pinell de Solsonès",
+        "Comarca": "Solsonès",
+        "Provincia": "Lleida",
+        "Codigo": "251667",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pinós",
+        "Comarca": "Solsonès",
+        "Provincia": "Lleida",
+        "Codigo": "251673",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Riner",
+        "Comarca": "Solsonès",
+        "Provincia": "Lleida",
+        "Codigo": "251863",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Llorenç de Morunys",
+        "Comarca": "Solsonès",
+        "Provincia": "Lleida",
+        "Codigo": "251930",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Solsona",
+        "Comarca": "Solsonès",
+        "Provincia": "Lleida",
+        "Codigo": "252075",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Altafulla",
+        "Comarca": "Tarragonès",
+        "Provincia": "Tarragona",
+        "Codigo": "430120",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Canonja, la",
+        "Comarca": "Tarragonès",
+        "Provincia": "Tarragona",
+        "Codigo": "439076",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Catllar, el",
+        "Comarca": "Tarragonès",
+        "Provincia": "Tarragona",
+        "Codigo": "430430",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Constantí",
+        "Comarca": "Tarragonès",
+        "Provincia": "Tarragona",
+        "Codigo": "430477",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Creixell",
+        "Comarca": "Tarragonès",
+        "Provincia": "Tarragona",
+        "Codigo": "430509",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Morell, el",
+        "Comarca": "Tarragonès",
+        "Provincia": "Tarragona",
+        "Codigo": "430957",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Nou de Gaià, la",
+        "Comarca": "Tarragonès",
+        "Provincia": "Tarragona",
+        "Codigo": "430976",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pallaresos, els",
+        "Comarca": "Tarragonès",
+        "Provincia": "Tarragona",
+        "Codigo": "431009",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Perafort",
+        "Comarca": "Tarragonès",
+        "Provincia": "Tarragona",
+        "Codigo": "431037",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pobla de Mafumet, la",
+        "Comarca": "Tarragonès",
+        "Provincia": "Tarragona",
+        "Codigo": "431093",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pobla de Montornès, la",
+        "Comarca": "Tarragonès",
+        "Provincia": "Tarragona",
+        "Codigo": "431114",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Renau",
+        "Comarca": "Tarragonès",
+        "Provincia": "Tarragona",
+        "Codigo": "431227",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Riera de Gaià, la",
+        "Comarca": "Tarragonès",
+        "Provincia": "Tarragona",
+        "Codigo": "431264",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Roda de Berà",
+        "Comarca": "Tarragonès",
+        "Provincia": "Tarragona",
+        "Codigo": "431310",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Salomó",
+        "Comarca": "Tarragonès",
+        "Provincia": "Tarragona",
+        "Codigo": "431359",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Salou",
+        "Comarca": "Tarragonès",
+        "Provincia": "Tarragona",
+        "Codigo": "439057",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Secuita, la",
+        "Comarca": "Tarragonès",
+        "Provincia": "Tarragona",
+        "Codigo": "431444",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Tarragona",
+        "Comarca": "Tarragonès",
+        "Provincia": "Tarragona",
+        "Codigo": "431482",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Torredembarra",
+        "Comarca": "Tarragonès",
+        "Provincia": "Tarragona",
+        "Codigo": "431536",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vespella de Gaià",
+        "Comarca": "Tarragonès",
+        "Provincia": "Tarragona",
+        "Codigo": "431649",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilallonga del Camp",
+        "Comarca": "Tarragonès",
+        "Provincia": "Tarragona",
+        "Codigo": "431665",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vila-seca",
+        "Comarca": "Tarragonès",
+        "Provincia": "Tarragona",
+        "Codigo": "431711",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Arnes",
+        "Comarca": "Terra Alta",
+        "Provincia": "Tarragona",
+        "Codigo": "430189",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Batea",
+        "Comarca": "Terra Alta",
+        "Provincia": "Tarragona",
+        "Codigo": "430228",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bot",
+        "Comarca": "Terra Alta",
+        "Provincia": "Tarragona",
+        "Codigo": "430326",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Caseres",
+        "Comarca": "Terra Alta",
+        "Provincia": "Tarragona",
+        "Codigo": "430419",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Corbera d'Ebre",
+        "Comarca": "Terra Alta",
+        "Provincia": "Tarragona",
+        "Codigo": "430483",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Fatarella, la",
+        "Comarca": "Terra Alta",
+        "Provincia": "Tarragona",
+        "Codigo": "430568",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Gandesa",
+        "Comarca": "Terra Alta",
+        "Provincia": "Tarragona",
+        "Codigo": "430640",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Horta de Sant Joan",
+        "Comarca": "Terra Alta",
+        "Provincia": "Tarragona",
+        "Codigo": "430712",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pinell de Brai, el",
+        "Comarca": "Terra Alta",
+        "Provincia": "Tarragona",
+        "Codigo": "431068",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Pobla de Massaluca, la",
+        "Comarca": "Terra Alta",
+        "Provincia": "Tarragona",
+        "Codigo": "431107",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Prat de Comte",
+        "Comarca": "Terra Alta",
+        "Provincia": "Tarragona",
+        "Codigo": "431172",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilalba dels Arcs",
+        "Comarca": "Terra Alta",
+        "Provincia": "Tarragona",
+        "Codigo": "431750",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Agramunt",
+        "Comarca": "Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "250030",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Anglesola",
+        "Comarca": "Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "250273",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Belianes",
+        "Comarca": "Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "250463",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bellpuig",
+        "Comarca": "Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "250501",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castellserà",
+        "Comarca": "Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "250707",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ciutadilla",
+        "Comarca": "Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "250740",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Fuliola, la",
+        "Comarca": "Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "250962",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Guimerà",
+        "Comarca": "Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "251095",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Maldà",
+        "Comarca": "Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "251305",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Nalec",
+        "Comarca": "Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "251459",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Omells de na Gaia, els",
+        "Comarca": "Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "251543",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ossó de Sió",
+        "Comarca": "Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "251575",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Preixana",
+        "Comarca": "Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "251765",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Puigverd d'Agramunt",
+        "Comarca": "Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "251811",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Martí de Riucorb",
+        "Comarca": "Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "259025",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Tàrrega",
+        "Comarca": "Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "252173",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Tornabous",
+        "Comarca": "Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "252252",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vallbona de les Monges",
+        "Comarca": "Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "252385",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Verdú",
+        "Comarca": "Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "252424",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilagrassa",
+        "Comarca": "Urgell",
+        "Provincia": "Lleida",
+        "Codigo": "252445",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Arres",
+        "Comarca": "Val d'Aran",
+        "Provincia": "Lleida",
+        "Codigo": "250313",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bausen",
+        "Comarca": "Val d'Aran",
+        "Provincia": "Lleida",
+        "Codigo": "250450",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bòrdes, Es",
+        "Comarca": "Val d'Aran",
+        "Provincia": "Lleida",
+        "Codigo": "250576",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bossòst",
+        "Comarca": "Val d'Aran",
+        "Provincia": "Lleida",
+        "Codigo": "250595",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Canejan",
+        "Comarca": "Val d'Aran",
+        "Provincia": "Lleida",
+        "Codigo": "250637",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Les",
+        "Comarca": "Val d'Aran",
+        "Provincia": "Lleida",
+        "Codigo": "251214",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Naut Aran",
+        "Comarca": "Val d'Aran",
+        "Provincia": "Lleida",
+        "Codigo": "250254",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vielha e Mijaran",
+        "Comarca": "Val d'Aran",
+        "Provincia": "Lleida",
+        "Codigo": "252430",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilamòs",
+        "Comarca": "Val d'Aran",
+        "Provincia": "Lleida",
+        "Codigo": "252477",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Badia del Vallès",
+        "Comarca": "Vallès Occidental",
+        "Provincia": "Barcelona",
+        "Codigo": "089045",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Barberà del Vallès",
+        "Comarca": "Vallès Occidental",
+        "Provincia": "Barcelona",
+        "Codigo": "082520",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castellar del Vallès",
+        "Comarca": "Vallès Occidental",
+        "Provincia": "Barcelona",
+        "Codigo": "080517",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Castellbisbal",
+        "Comarca": "Vallès Occidental",
+        "Provincia": "Barcelona",
+        "Codigo": "080543",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cerdanyola del Vallès",
+        "Comarca": "Vallès Occidental",
+        "Provincia": "Barcelona",
+        "Codigo": "082665",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Gallifa",
+        "Comarca": "Vallès Occidental",
+        "Provincia": "Barcelona",
+        "Codigo": "080879",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Matadepera",
+        "Comarca": "Vallès Occidental",
+        "Provincia": "Barcelona",
+        "Codigo": "081206",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Montcada i Reixac",
+        "Comarca": "Vallès Occidental",
+        "Provincia": "Barcelona",
+        "Codigo": "081252",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Palau-solità i Plegamans",
+        "Comarca": "Vallès Occidental",
+        "Provincia": "Barcelona",
+        "Codigo": "081568",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Polinyà",
+        "Comarca": "Vallès Occidental",
+        "Provincia": "Barcelona",
+        "Codigo": "081672",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Rellinars",
+        "Comarca": "Vallès Occidental",
+        "Provincia": "Barcelona",
+        "Codigo": "081799",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ripollet",
+        "Comarca": "Vallès Occidental",
+        "Provincia": "Barcelona",
+        "Codigo": "081803",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Rubí",
+        "Comarca": "Vallès Occidental",
+        "Provincia": "Barcelona",
+        "Codigo": "081846",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sabadell",
+        "Comarca": "Vallès Occidental",
+        "Provincia": "Barcelona",
+        "Codigo": "081878",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Cugat del Vallès",
+        "Comarca": "Vallès Occidental",
+        "Provincia": "Barcelona",
+        "Codigo": "082055",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Llorenç Savall",
+        "Comarca": "Vallès Occidental",
+        "Provincia": "Barcelona",
+        "Codigo": "082233",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Quirze del Vallès",
+        "Comarca": "Vallès Occidental",
+        "Provincia": "Barcelona",
+        "Codigo": "082384",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Santa Perpètua de Mogoda",
+        "Comarca": "Vallès Occidental",
+        "Provincia": "Barcelona",
+        "Codigo": "082606",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sentmenat",
+        "Comarca": "Vallès Occidental",
+        "Provincia": "Barcelona",
+        "Codigo": "082671",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Terrassa",
+        "Comarca": "Vallès Occidental",
+        "Provincia": "Barcelona",
+        "Codigo": "082798",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ullastrell",
+        "Comarca": "Vallès Occidental",
+        "Provincia": "Barcelona",
+        "Codigo": "082900",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vacarisses",
+        "Comarca": "Vallès Occidental",
+        "Provincia": "Barcelona",
+        "Codigo": "082917",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Viladecavalls",
+        "Comarca": "Vallès Occidental",
+        "Provincia": "Barcelona",
+        "Codigo": "083008",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Aiguafreda",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "080142",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Ametlla del Vallès, l'",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "080057",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Bigues i Riells del Fai",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "080235",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Caldes de Montbui",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "080333",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Campins",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "080399",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Canovelles",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "080410",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cànoves i Samalús",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "080425",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Cardedeu",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "080462",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Figaró-Montmany",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "081347",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Fogars de Montclús",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "080811",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Franqueses del Vallès, les",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "080863",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Garriga, la",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "080885",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Granollers",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "080961",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Gualba",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "080977",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Llagosta, la",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "081056",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Lliçà d'Amunt",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "081075",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Lliçà de Vall",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "081081",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Llinars del Vallès",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "081069",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Martorelles",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "081154",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Mollet del Vallès",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "081249",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Montmeló",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "081350",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Montornès del Vallès",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "081363",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Montseny",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "081379",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Parets del Vallès",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "081593",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Roca del Vallès, la",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "081810",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Antoni de Vilamajor",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "081982",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Celoni",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "082021",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Esteve de Palautordera",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "082074",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Feliu de Codines",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "082107",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Fost de Campsentelles",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "082093",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Sant Pere de Vilamajor",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "082346",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Santa Eulàlia de Ronçana",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "082482",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Santa Maria de Martorelles",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "082567",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Santa Maria de Palautordera",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "082592",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Tagamanent",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "082763",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vallgorguina",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "082943",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vallromanes",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "082969",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilalba Sasserra",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "083067",
+        "Descripción": null,
+        "Foto": null
+    },
+    {
+        "Municipio": "Vilanova del Vallès",
+        "Comarca": "Vallès Oriental",
+        "Provincia": "Barcelona",
+        "Codigo": "089024",
+        "Descripción": null,
+        "Foto": null
+    }
+]
