@@ -22,6 +22,7 @@ class APIController extends Controller
 
         // Recorrer cada municipio y guardar su información en la base de datos.
         foreach ($municipiosJSON as $municipioJSON) {
+            
             $municipioBD = new Municipio;
             $municipioBD->nombre = $municipioJSON['Municipio'];
             $municipioBD->comarca = $municipioJSON['Comarca'];
@@ -30,10 +31,9 @@ class APIController extends Controller
 
             // Peticion API para foto
             $response = HTTP::get("https://en.wikipedia.org/w/api.php?action=query&formatversion=2&pilimit=3&piprop=thumbnail&prop=pageimages%7Cpageterms&redirects=&titles=" . urlencode($municipioJSON['Municipio']) . "&wbptterms=description&format=json");
-
-            // $data = json_decode($response->body(), true);
             $pages = $response['query']['pages'];
             $page = reset($pages);
+
             // En algunos casos no existe thumbnail
             if (array_key_exists('thumbnail', $page)) {
                 $municipioBD->foto = $page['thumbnail']['source'];
@@ -43,6 +43,7 @@ class APIController extends Controller
             }
 
             $municipioBD->save();
+
             // Aumento la calidad de las fotos
             DB::statement("UPDATE municipios SET foto = REPLACE(foto, '50px', '500px')");
         }

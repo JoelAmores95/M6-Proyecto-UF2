@@ -1,5 +1,8 @@
 <?php
 
+use App\Http\Controllers\ComarcaAPIController;
+use App\Http\Controllers\MunicipioAPIController;
+use App\Http\Controllers\ProvinciaAPIController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
@@ -17,3 +20,12 @@ use Illuminate\Support\Facades\Route;
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
+Route::resource('municipio', MunicipioAPIController::class)->only([
+    'index', 'update', 'show'
+]);
+Route::resource('provincia', ProvinciaAPIController::class)->only([
+    'index', 'show'
+]);
+Route::resource('comarca', ComarcaAPIController::class)->only([
+    'index', 'show'
+]);
