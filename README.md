@@ -15,3 +15,13 @@ https://www.idescat.cat/indicadors/?id=aec&n=15903&tema=terri&lang=es
 
  ## Mostrar vista de todos los municipios
  - Navegar a la ruta '/'.
+
+ ## APIs ##
+ Municipios:    '/api/municipio' -> Lista de todos los municipios
+                '/api/municipio/{nombreMunicipio}' -> Datos de un municipio
+
+ Provincias:    '/api/provincia' -> Lista de provincias
+                '/api/provincia/{nombreProvincia}' -> Todos los municipios de una provincia
+
+ Comarcas:      '/api/comarca' -> Lista de comarcas
+                '/api/comarca/{nombreComarca}' -> Todos los municipios de una comarca
