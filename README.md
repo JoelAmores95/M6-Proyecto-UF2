@@ -17,14 +17,14 @@ https://www.idescat.cat/indicadors/?id=aec&n=15903&tema=terri&lang=es
  - Navegar a la ruta '/'.
 
  ## APIs ##
- - Municipios:    
-                - '/api/municipio' -> Lista de todos los municipios
-                - '/api/municipio/{nombreMunicipio}' -> Datos de un municipio
+ - Municipios:<br>    
+                '/api/municipio' -> Lista de todos los municipios <br>
+                '/api/municipio/{nombreMunicipio}' -> Datos de un municipio<br>
 
- - Provincias:    
-                - '/api/provincia' -> Lista de provincias
-                - '/api/provincia/{nombreProvincia}' -> Todos los municipios de una provincia
+ - Provincias:<br>    
+                '/api/provincia' -> Lista de provincias<br>
+                '/api/provincia/{nombreProvincia}' -> Todos los municipios de una provincia<br>
 
- - Comarcas:    
-                - '/api/comarca' -> Lista de comarcas
-                - '/api/comarca/{nombreComarca}' -> Todos los municipios de una comarca
+ - Comarcas:<br>    
+                '/api/comarca' -> Lista de comarcas<br>
+                '/api/comarca/{nombreComarca}' -> Todos los municipios de una comarca<br>
