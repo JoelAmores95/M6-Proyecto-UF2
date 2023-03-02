@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Facades\DB;
 use App\Models\Municipio;
@@ -53,8 +54,39 @@ class APIController extends Controller
 
     function mostrarMunicipios()
     {
+
         $municipios = Municipio::paginate(12);
         return view("municipios", compact("municipios"));
+    }
+
+    function mostrarMunicipio (Request $request)
+    {
+        //dd($request->all());
+        $nom = $request->input('q');
+        $municipios = Municipio::all();
+
+        $data=array('nom'=>$nom, 'municipios'=>$municipios);
+        return view("municipio", compact("nom", "municipios"));
+    }
+
+    function mostrarComarca (Request $request)
+    {
+        //dd($request->all());
+        $comarca = $request->input('a');
+        $municipios = Municipio::all();
+
+        $data=array('comarca'=>$comarca, 'municipios'=>$municipios);
+        return view("comarca", compact("comarca", "municipios"));
+    }
+
+    function mostrarProvincia (Request $request)
+    {
+        //dd($request->all());
+        $provincia = $request->input('x');
+        $municipios = Municipio::all();
+
+        $data=array('provincia'=>$provincia, 'municipios'=>$municipios);
+        return view("provincia", compact("provincia", "municipios"));
     }
 
     // public function index()

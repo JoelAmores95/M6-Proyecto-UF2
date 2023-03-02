@@ -9,13 +9,13 @@
         @vite(['resources/sass/app.scss', 'resources/js/app.js'])
     </head>
     <body>
+    <div class="container my-5">
 
-        <div class="container my-5">
-        <h1>Cerca un municipi</h1>
+<h1>Cerca un municipi</h1>
 
         <form action="/municipio" id="#form" method="post" name="#form">
             @csrf
-    <input type="text" name="q" placeholder="Cerca!">
+    <input type="text" name="q" placeholder="Busca!">
     <input id='btn' name="submit" type='submit' value='Cerca!'>
     </form>
     <br>
@@ -34,30 +34,34 @@
     <input type="text" name="x" placeholder="Cerca!">
     <input id='btn' name="submit" type='submit' value='Cerca!'>
     </form>
-    <br>
-   
+
+    <a class="d-flex justify-content-center" style="text-align: centre; font-weight: bold;" href="http://127.0.0.1:8000/">
+            Mostra tost els municipis
+        </a>
+
+@if(isset($provincia))
             <div class="row row-cols-1 row-cols-md-3 g-4 mb-5">
                 @foreach($municipios as $municipio)
+               <?php if ($municipio['provincia'] == $provincia) {?>
                 <div class="col">
                     <div class="card">
                         
                     <h1 class="card-text">{{$municipio['nombre']}}</h1>
                     <p class="card-text">{{$municipio['comarca']}} - {{$municipio['provincia']}}</p>
                     <p class="card-text">{{$municipio['descripcion']}}</p>
+                    
                     <div class="card-body">
                     <img src="{{$municipio['foto']}}" class="card-img-top" alt="...">
                         
                     </div>
                     </div>
                 </div>
+                <?php }?>
+                
+                
                 @endforeach
             </div>
-
-            {{-- Pagination --}}
-            <div class="d-flex justify-content-center">
-                {!! $municipios->links() !!}
-            </div>
-           
-        </div>
-    </body>
-</html>
+            @endif
+               </div>
+               </body>
+               </html>
