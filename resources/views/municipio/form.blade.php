@@ -7,9 +7,9 @@
 <form method="POST" action="{{ $route }}" class="needs-validation">
     @csrf
     @isset($update)
-        @method("PUT")
+    @method("PUT")
     @endisset
-    
+
     <div class="mb-3">
         <label for="nombre" class="form-label">{{ __("Nombre") }}</label>
         <input name="nombre" type="text" class="form-control" value="{{ old("nombre") ?? $municipio->nombre }}">
@@ -40,7 +40,7 @@
     </div>
 
 
-    
+
 
     <div class="mb-3">
         <button class="btn btn-primary" type="submit">
