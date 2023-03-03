@@ -4,6 +4,9 @@ https://www.idescat.cat/indicadors/?id=aec&n=15902&tema=terri&lang=es
 Comarcas y Municipios:
 https://www.idescat.cat/indicadors/?id=aec&n=15903&tema=terri&lang=es
 
+Información municipios:
+https://es.wikipedia.org/wiki/Anexo:Municipios_y_comarcas_de_Catalu%C3%B1a
+
 ## Elementos unidos en API/APICat.json ##
 
 ## Para cargar por primera vez el JSON en la Base de Datos ##
