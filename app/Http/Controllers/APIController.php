@@ -24,7 +24,7 @@ class APIController extends Controller
 
         // Recorrer cada municipio y guardar su información en la base de datos.
         foreach ($municipiosJSON as $municipioJSON) {
-            
+
             $municipioBD = new Municipio;
             $municipioBD->nombre = $municipioJSON['Municipio'];
             $municipioBD->comarca = $municipioJSON['Comarca'];
@@ -55,116 +55,75 @@ class APIController extends Controller
 
     function mostrarMunicipios()
     {
-        if(Auth::check())
-        {
-        $municipios = Municipio::paginate(12);
-        return view("municipios", compact("municipios"));} 
-        else {
-        return view('/home');}
+        // Si el usuario está autenticado, se muestran los municipios
+        if (auth()->check()) {
+            // Se recuperan los municipios de la base de datos y se los paginan
+            $municipios = Municipio::paginate(12);
+            // Se pasa la variable $municipios a la vista "municipios" mediante el método with
+            return view("municipios")->with("municipios", $municipios);
+        } else {
+            // Si el usuario no está autenticado, se lo redirige a la vista "/home"
+            return redirect('/home');
+        }
     }
 
-
-    //NO USAR mostrarMunicipio
-    //
-    //
-    //
-    //
-    //
-    //
-    function mostrarMunicipio (Request $request)
+    function mostrarMunicipio_search(Request $request)
     {
-        //dd($request->all());
-        if(Auth::check())
-        {
-            if ($request != null){
-        $nom = $request->input('q');
-        $municipios = Municipio::all();
-
-        $data=array('nom'=>$nom, 'municipios'=>$municipios);
-        return view("municipio", compact("nom", "municipios"));}} 
-        else {
-        return view('/home');}
+        if (Auth::check()) {
+            $nom = $request->input('q');
+            $municipios = Municipio::all();
+            return view("municipio_search", compact("nom", "municipios"));
+        } else {
+            return redirect('/home');
+        }
     }
-//
-//
-//
-//
-//
 
-
-
-
-
-    function mostrarMunicipio_search (Request $request)
+    function mostrarComarca(Request $request)
     {
-        //dd($request->all());
-        if(Auth::check())
-        {
-            if ($request != null){
-        $nom = $request->input('q');
-        $municipios = Municipio::all();
-
-        $data=array('nom'=>$nom, 'municipios'=>$municipios);
-        return view("municipio_search", compact("nom", "municipios"));}} 
-        else {
-        return view('/home');}
+        if (Auth::check()) {
+            $comarca = $request->input('a');
+            $municipios = Municipio::all();
+            return view("comarca", compact("comarca", "municipios"));
+        } else {
+            return redirect('/home');
+        }
     }
 
-    function mostrarComarca (Request $request)
+    function mostrarProvincia(Request $request)
     {
-        //dd($request->all());
-        if(Auth::check())
-        {
-            if ($request != null){
-        $comarca = $request->input('a');
-        $municipios = Municipio::all();
-
-        $data=array('comarca'=>$comarca, 'municipios'=>$municipios);
-        return view("comarca", compact("comarca", "municipios"));}} 
-        else {
-        return view('/home');}
+        if (Auth::check()) {
+            $provincia = $request->input('x');
+            $municipios = Municipio::all();
+            return view("provincia", compact("provincia", "municipios"));
+        } else {
+            return redirect('/home');
+        }
     }
 
-    function mostrarProvincia (Request $request)
-    {
-        //dd($request->all());
-        if(Auth::check())
-        {
-            if ($request != null){
-        $provincia = $request->input('x');
-        $municipios = Municipio::all();
 
-        $data=array('provincia'=>$provincia, 'municipios'=>$municipios);
-        return view("provincia", compact("provincia", "municipios"));}} 
-        else {
-        return view('/home');}
-    }
-    
-
- /**
+    /**
      * Show the form for editing the specified resource.
      *
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
 
-public function edit(Municipio $municipio)
-    {
-        if(Auth::check())
-        {
-            $email = auth()->user()->email;
-            if($email == "admin@admin.com") 
-        {
-        $update = true;
-        $title = __("Editar municipio");
-        $textButton = __("Actualitar");
-        $route = route("municipio.update", ["municipio" => $municipio]);
-        return view("municipio.edit", compact("municipio", "update", "title", "textButton", "route"));} else {
-            return back()
-            ->with("error", __("Sólo el usuario con el email «admin@admin.com» puede editar municipios. Tu correo ha de ser admin@admin.com."));}
-        }
-    
-}
+     public function edit(Municipio $municipio)
+     {
+         if (Auth::check()) {
+             $email = auth()->user()->email;
+             if ($email == "admin@admin.com") {
+                 $update = true;
+                 $title = __("Editar municipio");
+                 $textButton = __("Actualizar");
+                 $route = route("municipio.update", ["municipio" => $municipio]);
+                 return view("municipio.edit", compact("municipio", "update", "title", "textButton", "route"));
+             } else {
+                 return back()
+                     ->with("error", __("No tienes permiso para editar municipios. Solo los usuarios con el rol de administrador pueden hacerlo."));
+             }
+         }
+     }
 
     /**
      * Update the specified resource in storage.
@@ -175,53 +134,23 @@ public function edit(Municipio $municipio)
      */
     public function update(Request $request, Municipio $municipio)
 {
-    if(Auth::check())
-        {
-            $email = auth()->user()->email;
-            if($email == "admin@admin.com") 
-        {
-    $this->validate($request, [
-        "nombre" => "required",
-        "comarca" => "required",
-        "provincia" => "required",
-        "descripcion" => "required",
-        ]);
-        $municipios = Municipio::paginate(12);
-        $municipio->update($request->all());
-        return to_route('/', compact("municipios"))
-            ->with("success", __("¡El municipio " . $request->nombre . " ha sido actualizado!"));}} else {
-                return back()
-                ->with("error", __("Sólo el usuario con el email «admin@admin.com» puede editar municipios. Tu correo ha de ser admin@admin.com."));}
+    if (Auth::check()) {
+        $email = auth()->user()->email;
+        if ($email == "admin@admin.com") {
+            $this->validate($request, [
+                "nombre" => "required",
+                "comarca" => "required",
+                "provincia" => "required",
+                "descripcion" => "required",
+            ]);
+            $municipio->update($request->all());
+            $municipios = Municipio::paginate(12);
+            return redirect('/')
+                ->with("success", __("¡El municipio :nombre ha sido actualizado!", ["nombre" => $request->nombre]));
+        }
+    } else {
+        return back()
+            ->with("error", __("Sólo el usuario con el rol de administrador puede editar municipios."));
+    }
 }
-
-    // public function index()
-    // {
-    //     return Municipio::all();
-    // }
-
-    // /** Mostrar municipios de provincia */
-    // function mostrarPueblosProvinciaBarcelona()
-    // {
-    //     $contenido = Storage::get('MunicipiosProvinciasAgrupado.json');
-    //     $municipios = json_decode($contenido, true);
-    //     return $municipios[0]['Municipios'];
-    // }
-    // function mostrarPueblosProvinciaGirona()
-    // {
-    //     $contenido = Storage::get('MunicipiosProvinciasAgrupado.json');
-    //     $municipios = json_decode($contenido, true);
-    //     return $municipios[1]['Municipios'];
-    // }
-    // function mostrarPueblosProvinciaLleida()
-    // {
-    //     $contenido = Storage::get('MunicipiosProvinciasAgrupado.json');
-    //     $municipios = json_decode($contenido, true);
-    //     return $municipios[2]['Municipios'];
-    // }
-    // function mostrarPueblosProvinciaTarragona()
-    // {
-    //     $contenido = Storage::get('MunicipiosProvinciasAgrupado.json');
-    //     $municipios = json_decode($contenido, true);
-    //     return $municipios[3]['Municipios'];
-    // }
 }
