@@ -14,12 +14,18 @@
                         </div>
                     @endif
 
-                    {{ __('You are logged in!') }}
+                    <?php if(Auth::check())
+        {
+                    echo "<p>¡Has iniciado sesión!</p>
+                    <br>  <a href=\"http://127.0.0.1:8000\"><b>Mostrar municipios</b></a>";
+        } else {
+            echo "<p>¡Necesitas iniciar sesión!</p>";
+        } ?>
                     
                 </div>
                
             </div>
-            <a href="http://127.0.0.1:8000">Mostrar municipis</a>
+           
         </div>
     </div>
 </div>

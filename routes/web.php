@@ -13,14 +13,22 @@ use Illuminate\Support\Facades\Route;
 |
 */
 // Route::get('/', [App\Http\Controllers\APIController::class,'index']);
-Route::get('/', [App\Http\Controllers\APIController::class, 'mostrarMunicipios']);
-Route::post('/municipio', [App\Http\Controllers\APIController::class, 'mostrarMunicipio']);
-Route::post('/comarca', [App\Http\Controllers\APIController::class, 'mostrarComarca']);
-Route::post('/provincia', [App\Http\Controllers\APIController::class, 'mostrarProvincia']);
-//Route::get('/show', [App\Http\Controllers\MunicipioController::class, 'show']);
-//Route::get('/show', [App\Http\Controllers\MunicipioController::class, 'show']);
-Route::get('/guardarEnBaseDatos', [App\Http\Controllers\APIController::class,'guardarMunicipiosJSONenBD']);
+Route::any('/', [App\Http\Controllers\APIController::class, 'mostrarMunicipios'])->name('/');
+
+
+//NO USAR municipio
+Route::any('/municipio', [App\Http\Controllers\APIController::class, 'mostrarMunicipio']);
+
+Route::any('/municipio_search', [App\Http\Controllers\APIController::class, 'mostrarMunicipio_search']);
+
+
+Route::any('/comarca', [App\Http\Controllers\APIController::class, 'mostrarComarca']);
+Route::any('/provincia', [App\Http\Controllers\APIController::class, 'mostrarProvincia']);
+
+Route::any('/guardarEnBaseDatos', [App\Http\Controllers\APIController::class,'guardarMunicipiosJSONenBD']);
 
 Auth::routes();
 
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::resource('municipio', App\Http\Controllers\APIController::class);
+
+Route::any('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
