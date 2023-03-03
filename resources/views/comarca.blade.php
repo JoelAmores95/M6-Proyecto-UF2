@@ -1,83 +1,38 @@
-<!DOCTYPE html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
+@extends('layouts.app')
 
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+@section('content')
+  <div class="container">
+    <h1>Comarcas</h1>
+    
+    <!-- Formulario para buscar por comarca -->
+    <form method="GET" action="{{ route('comarca.search') }}">
+      <div class="form-group">
+        <label for="comarca">Buscar por comarca:</label>
+        <input type="text" class="form-control" id="comarca" name="comarca" placeholder="Introduce la comarca a buscar">
+      </div>
+      <button type="submit" class="btn btn-primary">Buscar</button>
+    </form>
 
-    <title>Municipios de Cataluña</title>
+    <hr>
 
-    @vite(['resources/sass/app.scss', 'resources/js/app.js'])
-</head>
-
-<body>
-
-    <div class="container my-5">
-        <a class="d-flex justify-content-center" style="text-align: centre; font-weight: bold;" href="http://127.0.0.1:8000/home">
-            Vista de inicio de sesión
-        </a>
-        <br>
-        <h1>Busca un municipio</h1>
-
-        <form action="/municipio_search" id="#form" method="post" name="#form">
-            @csrf
-            <input type="text" name="q" placeholder="¡Busca!">
-            <input id='btn' name="submit" type='submit' value='¡Busca!'>
-        </form>
-        <br>
-        <h1>Busca una comarca</h1>
-
-        <form action="/comarca" id="#form" method="post" name="#form">
-            @csrf
-            <input type="text" name="a" placeholder="¡Busca!">
-            <input id='btn' name="submit" type='submit' value='¡Busca!'>
-        </form>
-        <br>
-        <h1>Busca una provincia</h1>
-
-        <form action="/provincia" id="#form" method="post" name="#form">
-            @csrf
-            <input type="text" name="x" placeholder="¡Busca!">
-            <input id='btn' name="submit" type='submit' value='¡Busca!'>
-        </form>
-        <br>
-
-        @if (session('success'))
-        <p style="color:green"><b>{{ session('success') }}</b></p>
-        @endif
-        @if (session('error'))
-        <p style="color:red"><b>{{ session('error') }}</b></p>
-        @endif
-        <br>
-
-        <a class="d-flex justify-content-center" style="text-align: centre; font-weight: bold;" href="http://127.0.0.1:8000/">
-            Muestra todos los municipios.
-        </a><br>
-        @if(isset($comarca))
-        <div class="row row-cols-1 row-cols-md-3 g-4 mb-5">
-            @foreach($municipios as $municipio)
-            <?php if ($municipio['comarca'] == $comarca) { ?>
-                <div class="col">
-                    <div class="card">
-
-                        <h1 class="card-text">{{$municipio['nombre']}}</h1>
-                        <p class="card-text">{{$municipio['comarca']}} - {{$municipio['provincia']}}</p>
-                        <p class="card-text">{{$municipio['descripcion']}}</p>
-
-                        <div class="card-body">
-                            <img src="{{$municipio['foto']}}" class="card-img-top" alt="...">
-                            <br><br>
-                            <a href="{{ route("municipio.edit", ["municipio" => $municipio]) }}" class="btn btn-warning">{{ __("Editar") }}</a>
-                        </div>
-                    </div>
-                </div>
-            <?php } ?>
-
-
-            @endforeach
+    <!-- Mostrar las comarcas -->
+    <div class="row">
+      @foreach ($comarcas as $comarca)
+        <div class="col-sm-6 col-md-4">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title">{{ $comarca->nombre }}</h5>
+              <p class="card-text">{{ $comarca->provincia }}</p>
+              <a href="{{ route('comarca.show', $comarca) }}" class="btn btn-primary">Ver comarca</a>
+            </div>
+          </div>
         </div>
-        @endif
+      @endforeach
     </div>
-</body>
 
-</html>
+    <!-- Paginación -->
+    <div class="mt-4">
+      {{ $comarcas->links() }}
+    </div>
+  </div>
+@endsection

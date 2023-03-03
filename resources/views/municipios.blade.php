@@ -1,4 +1,5 @@
 @extends('layouts.app')
+@section('content')
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 
@@ -13,34 +14,7 @@
 
 <body>
 
-    <div class="container my-5">
-        <a class="d-flex justify-content-center" style="text-align: centre; font-weight: bold;" href="http://127.0.0.1:8000/home">
-            Vista de inicio de sesión
-        </a>
-        <br>
-        <h1>Busca un municipio</h1>
-
-        <form action="/municipio_search" id="#form" method="post" name="#form">
-            @csrf
-            <input type="text" name="q" placeholder="¡Busca!">
-            <input id='btn' name="submit" type='submit' value='¡Busca!'>
-        </form>
-        <br>
-        <h1>Busca una comarca</h1>
-
-        <form action="/comarca" id="#form" method="post" name="#form">
-            @csrf
-            <input type="text" name="a" placeholder="¡Busca!">
-            <input id='btn' name="submit" type='submit' value='¡Busca!'>
-        </form>
-        <br>
-        <h1>Busca una provincia</h1>
-
-        <form action="/provincia" id="#form" method="post" name="#form">
-            @csrf
-            <input type="text" name="x" placeholder="¡Busca!">
-            <input id='btn' name="submit" type='submit' value='¡Busca!'>
-        </form>
+    <div class="container my-5">     
 
         <br><br>
         @if (!(session('success')) && !(session('error')))
@@ -85,3 +59,4 @@
 </body>
 
 </html>
+@endsection

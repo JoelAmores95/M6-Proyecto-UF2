@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\APIController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -12,18 +12,14 @@ use Illuminate\Support\Facades\Route;
 | be assigned to the "web" middleware group. Make something great!
 |
 */
-// Route::get('/', [App\Http\Controllers\APIController::class,'index']);
 Route::any('/', [App\Http\Controllers\APIController::class, 'mostrarMunicipios'])->name('/');
 
 
-//NO USAR municipio
-Route::any('/municipio', [App\Http\Controllers\APIController::class, 'mostrarMunicipio']);
+Route::get('/buscar-municipio', [APIController::class, 'buscarMunicipio']);
+Route::get('/comarca/search',  [APIController::class, 'searchByComarca']);
+Route::any('/provincia', [App\Http\Controllers\APIController::class, 'provinciaIndex']);
+Route::get('/provincia/search', [App\Http\Controllers\APIController::class, 'provinciaSearch']);
 
-Route::any('/municipio_search', [App\Http\Controllers\APIController::class, 'mostrarMunicipio_search']);
-
-
-Route::any('/comarca', [App\Http\Controllers\APIController::class, 'mostrarComarca']);
-Route::any('/provincia', [App\Http\Controllers\APIController::class, 'mostrarProvincia']);
 
 Route::any('/guardarEnBaseDatos', [App\Http\Controllers\APIController::class,'guardarMunicipiosJSONenBD']);
 
