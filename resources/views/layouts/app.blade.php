@@ -8,7 +8,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'Inicio') }}</title>
+    <title>{{ config('app.name', 'Laravel') }}</title>
 
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
@@ -31,45 +31,44 @@
 
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <!-- Left Side Of Navbar -->
-                    <ul class="navbar-nav me-auto d-flex">
-                        @auth
-                        <form action="/buscar-municipio" method="GET">
-                            
-                            <input type="text" id="nombre-municipio" name="nombre" placeholder="Nombre del municipio">
-                            <button type="submit">Buscar</button>
-                        </form>
-                        <br>
-                        <form action="/comarca/search" method="GET">
-                            
-                            <input type="text" id="nombre-municipio" name="nombre" placeholder="Nombre de la comarca">
-                            <button type="submit">Buscar</button>
-                        </form>
-                        <br>
-                        
-                        <form action="/provincia/search" method="GET">
-                            
-                            <input type="text" id="nombre-municipio" name="nombre" placeholder="Nombre de la provincia">
-                            <button type="submit">Buscar</button>
-                        </form>
-                        
-
-                        @endauth
+                    @auth
+                    <ul class="navbar-nav me-auto">
+                        <div style="text-align: center; margin-right: 1em">
+                            <form action="/municipio_search" id="#form" method="post" name="#form">
+                                @csrf
+                                <input type="text" name="q" placeholder="Busca un municipio">
+                                <input id='btn' name="submit" type='submit' value='¡Busca!'>
+                            </form>
+                        </div>
+                        <div style="text-align: center; margin-right: 1em">
+                            <form action="/comarca" id="#form" method="post" name="#form">
+                                @csrf
+                                <input type="text" name="a" placeholder="Busca una comarca">
+                                <input id='btn' name="submit" type='submit' value='¡Busca!'>
+                            </form>
+                        </div>
+                        <div style="text-align: center; margin-right: 1em">
+                            <form action="/provincia" id="#form" method="post" name="#form">
+                                @csrf
+                                <input type="text" name="x" placeholder="Busca una provincia">
+                                <input id='btn' name="submit" type='submit' value='¡Busca!'>
+                            </form>
+                        </div>
                     </ul>
-
-
+                    @endauth
                     <!-- Right Side Of Navbar -->
                     <ul class="navbar-nav ms-auto">
                         <!-- Authentication Links -->
                         @guest
                         @if (Route::has('login'))
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route('login') }}">{{ __('Login') }}</a>
+                            <a class="nav-link" href="{{ route('login') }}">{{ __('Iniciar sesión') }}</a>
                         </li>
                         @endif
 
                         @if (Route::has('register'))
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route('register') }}">{{ __('Register') }}</a>
+                            <a class="nav-link" href="{{ route('register') }}">{{ __('Registrarse') }}</a>
                         </li>
                         @endif
                         @else
@@ -81,7 +80,7 @@
                             <div class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
                                 <a class="dropdown-item" href="{{ route('logout') }}" onclick="event.preventDefault();
                                                      document.getElementById('logout-form').submit();">
-                                    {{ __('Logout') }}
+                                    {{ __('Abandonar sesión') }}
                                 </a>
 
                                 <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">

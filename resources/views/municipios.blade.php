@@ -1,4 +1,5 @@
 @extends('layouts.app')
+
 @section('content')
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
@@ -14,11 +15,11 @@
 
 <body>
 
-    <div class="container my-5">     
+    <div class="container my-5">
 
-        <br><br>
-        @if (!(session('success')) && !(session('error')))
+
         <br>
+        @if (!(session('success')) && !(session('error')))
         <br>
         @endif
 
@@ -35,10 +36,11 @@
             @foreach($municipios as $municipio)
             <div class="col">
                 <div class="card">
-
-                    <h1 class="card-text">{{$municipio['nombre']}}</h1>
-                    <p class="card-text">{{$municipio['comarca']}} - {{$municipio['provincia']}}</p>
-                    <p class="card-text">{{$municipio['descripcion']}}</p>
+                    <div style="padding-left: 0.5em;">
+                        <h1 class="card-text">{{$municipio['nombre']}}</h1>
+                        <p class="card-text">{{$municipio['comarca']}} - {{$municipio['provincia']}}</p>
+                        <p class="card-text">{{$municipio['descripcion']}}</p>
+                    </div>
                     <div class="card-body">
                         <img src="{{$municipio['foto']}}" class="card-img-top" alt="...">
                         <br><br>

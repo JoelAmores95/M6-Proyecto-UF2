@@ -16,7 +16,6 @@
 <body>
 
     <div class="container my-5">
-
         <br>
         @if (!(session('success')) && !(session('error')))
         <br>
@@ -28,12 +27,12 @@
         @if (session('error'))
         <p style="color:red"><b>{{ session('error') }}</b></p>
         @endif
-
-        @if(isset($comarca))
+        <br>
+        @if(isset($provincia))
         <div class="row row-cols-1 row-cols-md-3 g-4 mb-5">
             @foreach($municipios as $municipio)
             <?php $n = 0;
-            if ($municipio['comarca'] == $comarca) {
+            if ($municipio['provincia'] == $provincia) {
                 $n++; ?>
                 <div class="col">
                     <div class="card">
@@ -52,17 +51,14 @@
                 </div>
             <?php } ?>
 
+
             @endforeach
             <?php if ($n == 0) { ?>
-                <p style="color:red"><b><br>Busca una comarca existente.</b></p>
+                <p style="color:red"><b>Busca una provincia existente.</b></p>
             <?php } ?>
         </div>
-
-
-
         @else
-        <br>
-        <p style="color:red"><b>Busca una comarca.</b></p>
+        <p style="color:red"><b>Busca una provincia.</b></p>
         @endif
     </div>
 </body>

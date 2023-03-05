@@ -2755,7 +2755,7 @@
     "Municipio": "Gósol",
     "Comarca": "Berguedà",
     "Codigo": "251001",
-    "Provincia": "Tarragona",
+    "Provincia": "Barcelona",
     "Descripción": "56,3",
     "Foto": "233"
   },
@@ -2899,7 +2899,7 @@
     "Municipio": "Bellver de Cerdanya",
     "Comarca": "Cerdanya",
     "Codigo": "250518",
-    "Provincia": "Lleida",
+    "Provincia": "Girona",
     "Descripción": "98,2",
     "Foto": "2176"
   },
@@ -2955,7 +2955,7 @@
     "Municipio": "Lles de Cerdanya",
     "Comarca": "Cerdanya",
     "Codigo": "251272",
-    "Provincia": "Lleida",
+    "Provincia": "Girona",
     "Descripción": "102,8",
     "Foto": "286"
   },
@@ -2979,7 +2979,7 @@
     "Municipio": "Montellà i Martinet",
     "Comarca": "Cerdanya",
     "Codigo": "251399",
-    "Provincia": "Lleida",
+    "Provincia": "Girona",
     "Descripción": "55",
     "Foto": "615"
   },
@@ -2987,7 +2987,7 @@
     "Municipio": "Prats i Sansor",
     "Comarca": "Cerdanya",
     "Codigo": "251752",
-    "Provincia": "Lleida",
+    "Provincia": "Girona",
     "Descripción": "6,6",
     "Foto": "260"
   },
@@ -2995,7 +2995,7 @@
     "Municipio": "Prullans",
     "Comarca": "Cerdanya",
     "Codigo": "251790",
-    "Provincia": "Lleida",
+    "Provincia": "Girona",
     "Descripción": "21,2",
     "Foto": "264"
   },
@@ -3011,7 +3011,7 @@
     "Municipio": "Riu de Cerdanya",
     "Comarca": "Cerdanya",
     "Codigo": "259139",
-    "Provincia": "Lleida",
+    "Provincia": "Girona",
     "Descripción": "12,3",
     "Foto": "100"
   },
@@ -4523,7 +4523,7 @@
     "Municipio": "Espinelves",
     "Comarca": "Osona",
     "Codigo": "170638",
-    "Provincia": "Girona",
+    "Provincia": "Barcelona",
     "Descripción": "17,4",
     "Foto": "248"
   },
@@ -4859,7 +4859,7 @@
     "Municipio": "Vidrà",
     "Comarca": "Osona",
     "Codigo": "172121",
-    "Provincia": "Girona",
+    "Provincia": "Barcelona",
     "Descripción": "34,4",
     "Foto": "181"
   },
@@ -4867,7 +4867,7 @@
     "Municipio": "Viladrau",
     "Comarca": "Osona",
     "Codigo": "172207",
-    "Provincia": "Girona",
+    "Provincia": "Barcelona",
     "Descripción": "50,7",
     "Foto": "1103"
   },
@@ -6315,7 +6315,7 @@
     "Municipio": "Fogars de la Selva",
     "Comarca": "Selva",
     "Codigo": "080826",
-    "Provincia": "Barcelona",
+    "Provincia": "Girona",
     "Descripción": "32,1",
     "Foto": "1564"
   },
